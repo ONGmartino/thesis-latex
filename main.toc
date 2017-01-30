@@ -64,26 +64,24 @@
 \contentsline {section}{\numberline {6.4}Policies: examples}{90}{section.62}
 \contentsline {chapter}{\numberline {7}Case Study\hfil \hbox {}}{93}{chapter.63}
 \contentsline {section}{\numberline {7.1}The institution}{94}{section.64}
-\contentsline {subsection}{\numberline {7.1.1}Historical perspective}{94}{subsection.65}
-\contentsline {subsection}{\numberline {7.1.2}Public interference}{94}{subsection.66}
-\contentsline {subsection}{\numberline {7.1.3}Organizational structure}{94}{subsection.67}
-\contentsline {subsection}{\numberline {7.1.4}TTO structure}{94}{subsection.68}
-\contentsline {section}{\numberline {7.2}Channels}{94}{section.69}
-\contentsline {subsection}{\numberline {7.2.1}External perspective}{94}{subsection.70}
-\contentsline {subsubsection}{For firms}{95}{section*.71}
-\contentsline {subsubsection}{For research organizations}{95}{section*.72}
-\contentsline {subsubsection}{For spinoff}{96}{section*.73}
-\contentsline {subsection}{\numberline {7.2.2}Internal perspective}{97}{subsection.74}
-\contentsline {subsubsection}{Ignition}{97}{section*.75}
-\contentsline {subsubsection}{Evaluation}{97}{section*.76}
-\contentsline {subsubsection}{Development}{97}{section*.77}
-\contentsline {subsubsection}{Finalization}{97}{section*.78}
-\contentsline {section}{\numberline {7.3}Evaluation}{97}{section.79}
-\contentsline {subsection}{\numberline {7.3.1}Effectiveness}{97}{subsection.80}
-\contentsline {subsection}{\numberline {7.3.2}Efficiency}{97}{subsection.81}
-\contentsline {subsubsection}{Performance comparison over time}{97}{section*.82}
-\contentsline {subsubsection}{Performance comparison between competitor}{99}{section*.83}
-\contentsline {section}{\numberline {7.4}Policies}{100}{section.84}
-\contentsline {subsubsection}{Policy for the valorization of FBK research}{100}{section*.85}
-\contentsline {subsubsection}{Child policies}{101}{section*.86}
-\contentsline {chapter}{Bibliography}{105}{chapter*.87}
+\contentsline {subsection}{\numberline {7.1.1}Organizational structure}{95}{subsection.65}
+\contentsline {subsection}{\numberline {7.1.2}TTO structure}{95}{subsection.66}
+\contentsline {section}{\numberline {7.2}Channels}{95}{section.67}
+\contentsline {subsection}{\numberline {7.2.1}External perspective}{95}{subsection.68}
+\contentsline {subsubsection}{For firms}{95}{section*.69}
+\contentsline {subsubsection}{For research organizations}{96}{section*.70}
+\contentsline {subsubsection}{For spinoff}{97}{section*.71}
+\contentsline {subsection}{\numberline {7.2.2}Internal perspective}{97}{subsection.72}
+\contentsline {subsubsection}{Ignition}{98}{section*.73}
+\contentsline {subsubsection}{Evaluation}{98}{section*.74}
+\contentsline {subsubsection}{Development}{98}{section*.75}
+\contentsline {subsubsection}{Finalization}{98}{section*.76}
+\contentsline {section}{\numberline {7.3}Evaluation}{98}{section.77}
+\contentsline {subsection}{\numberline {7.3.1}Effectiveness}{98}{subsection.78}
+\contentsline {subsection}{\numberline {7.3.2}Efficiency}{98}{subsection.79}
+\contentsline {subsubsection}{Performance comparison over time}{98}{section*.80}
+\contentsline {subsubsection}{Performance comparison between competitor}{99}{section*.81}
+\contentsline {section}{\numberline {7.4}Policies}{101}{section.82}
+\contentsline {subsubsection}{Policy for the valorization of FBK research}{101}{section*.83}
+\contentsline {subsubsection}{Child policies}{102}{section*.84}
+\contentsline {chapter}{Bibliography}{105}{chapter*.85}
