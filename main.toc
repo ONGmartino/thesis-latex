@@ -78,10 +78,10 @@
 \contentsline {subsubsection}{Finalization}{101}{section*.76}
 \contentsline {section}{\numberline {7.3}Evaluation}{101}{section.77}
 \contentsline {subsection}{\numberline {7.3.1}Effectiveness}{101}{subsection.78}
-\contentsline {subsection}{\numberline {7.3.2}Efficiency}{102}{subsection.79}
+\contentsline {subsection}{\numberline {7.3.2}Efficiency}{103}{subsection.79}
 \contentsline {subsubsection}{Performance comparison over time}{103}{section*.80}
 \contentsline {subsubsection}{Performance comparison between competitor}{104}{section*.81}
-\contentsline {section}{\numberline {7.4}Policies}{105}{section.82}
+\contentsline {section}{\numberline {7.4}Policies}{106}{section.82}
 \contentsline {subsubsection}{Policy for the valorization of FBK research}{106}{section*.83}
 \contentsline {subsubsection}{Child policies}{107}{section*.84}
 \contentsline {chapter}{Bibliography}{109}{chapter*.85}
