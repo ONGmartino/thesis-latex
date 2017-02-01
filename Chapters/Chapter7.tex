@@ -156,11 +156,28 @@ The most used centrality measure is also the simpliest one: the degree centralit
 
 FBK scored 909 ties, filling the 257' position in the entire graph. In other words, FBK is among the top 1\% of actors by the number of ties. This can be considered a remarkable result, given the presence and "competition" of far more larger instutions, as in top-tier academic institutions and monumental public research organizations. 
 
-closeness centrality represent instead the average distance of a node from every other actor in the graph. basically, this index assumes that the higher the centrality of a node, the more will be its direct linkages toward other members, instead of being mediated by other nodes. it is calculated as the reciprocal of the total distance between the node in analysis and every other node in the graph, usually normalized (multiplied) for the total number of nodes -minus one \textbf{FORMULA}
+closeness centrality represent instead the average distance of a node from every other actor in the graph. basically, this index assumes that the higher the centrality of a node, the more will be its direct linkages toward other members, instead of being mediated by other nodes. it is calculated as the reciprocal of the total distance between the node in analysis and every other node in the graph, usually normalized (multiplied) for the total number of nodes -minus one 
+
+
+\[
+	C_C (v) =
+		\frac 
+			{n-1}
+			{
+				\sum_t d(v, t)
+			} 
+\]
+
 
 The closeness centrality of FBK has been  calculated in 0.41493, ranking 1448, down to the top 5\%. The difference between the degree and the closeness centrality indexes is attributable to the presence in the graph of a number of independent subgraphs, isolated in respect to the other part of the network, which present a relatively higher score in a much smaller environment, slightly affecting the calculation. Nevertheless, it can be considered a positive result.  
 
-betweeness centrality refer to the centrality as the position of the node as a "mediatore" in the graph: the higher the number of shortest paths that cross the node, the higher its index. its determination require, for the node in analysis, to compute every shortest path between every other possible pair of nodes, and for each of them calculate the fraction of shortest paths that pass through that node, then summed up.  \textbf{formula}
+betweeness centrality refer to the centrality as the position of the node as a "mediatore" in the graph: the higher the number of shortest paths that cross the node, the higher its index. its determination require, for the node in analysis, to compute every shortest path between every other possible pair of nodes, and for each of them calculate the fraction of shortest paths that pass through that node, then summed up. 
+
+\[
+	C_B (v) =
+		\sum_{v \neq j \neq k}
+			\frac {\sigma_{j,k} (v)}{\sigma_{j,k}}
+\]
 
 FBK's betweeness centrality has been evaluated in 1644274, 168" in the graph, in the first percentile. Again, a remarkable result, which place the organization in a truly central position in the graph, where it can assume the role of bridging different realities. 
 
