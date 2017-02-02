@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  2 FEB 2017 12:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  2 FEB 2017 17:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -2090,7 +2090,13 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 [1
 
 
-] [2] [3] [4]) [5]
+]
+Overfull \hbox (4.56079pt too wide) in paragraph at lines 26--27
+\T1/ppl/m/n/10.95 iden-ti-fies a his-tor-i-cal mo-ment with clear neg-a-tive ex
+-ter-nal-i-ties, ex-tremely high trans-
+ []
+
+[2] [3] [4]) [5]
 \openout2 = `Chapters/Chapter2.aux'.
 
  (Chapters/Chapter2.tex [6
@@ -2127,12 +2133,17 @@ ies can be eval-u-ated through
  []
 
 [10] [11] [12]
+Overfull \hbox (6.9807pt too wide) in paragraph at lines 79--80
+\T1/ppl/m/n/10.95 this cor-re-la-tion, at least in par-tic-u-lar per-spec-tives
+, like the re-sults showed by []Thursby
+ []
+
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 83.
- [13] [14] [15]
-Overfull \hbox (3.7181pt too wide) in paragraph at lines 119--120
-[]\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults show that, once con-trolled for t
-he rel-a-tive abil-ity of re-searchers,
+[13] [14] [15]
+Overfull \hbox (10.09093pt too wide) in paragraph at lines 119--120
+[]\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults shown that, once con-trolled for 
+the rel-a-tive abil-ity of re-searchers,
  []
 
 [16] [17] [18] [19] [20]
@@ -2389,16 +2400,16 @@ Overfull \hbox (1.4185pt too wide) in paragraph at lines 51--52
 and his-tor-i-cal lug-gage, be-tween
  []
 
-[95] [96] [97] [98] [99]
-Overfull \hbox (1.40767pt too wide) in paragraph at lines 146--147
+[95] [96] [97] [98] [99] [100]
+Overfull \hbox (1.40767pt too wide) in paragraph at lines 148--149
 []\T1/ppl/m/n/10.95 in the first case, such ac-tiv-i-ties mainly en-com-pass en
 -trepreneurial courses, the struc-
  []
 
-[100] [101] [102] [103] [104] [105] [106]
+[101] [102] [103] [104] [105] [106]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 260.
+(hyperref)                than one, level fixed on input line 262.
 
 [107] [108]) [109] [110
 
@@ -2549,7 +2560,7 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (128 pages, 777921 bytes).
+Output written on main.pdf (128 pages, 779021 bytes).
 PDF statistics:
  2010 PDF objects out of 2073 (max. 8388607)
  370 named destinations out of 1000 (max. 500000)
