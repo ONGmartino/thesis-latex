@@ -35,6 +35,7 @@ headsepline, % Uncomment to get a line under the header
 \usepackage{palatino} % Use the Palatino font by default
 
 \usepackage{amsmath}
+\usepackage{nth}
 
 \usepackage[backend=bibtex,style=authoryear,natbib=true,maxnames=2]{biblatex} % Use the bibtex backend with the authoryear citation style (which resembles APA)
 
@@ -99,59 +100,59 @@ headsepline, % Uncomment to get a line under the header
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\begin{titlepage}
-\begin{center}
+% \begin{titlepage}
+% \begin{center}
 
-\vspace*{.06\textheight}
-{\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
-\textsc{\Large Master Thesis}\\[0.5cm] % Thesis type
+% \vspace*{.06\textheight}
+% {\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
+% \textsc{\Large Master Thesis}\\[0.5cm] % Thesis type
 
-\HRule \\[0.4cm] % Horizontal line
-{\huge \bfseries \ttitle\par}\vspace{0.4cm} % Thesis title
-\HRule \\[1.5cm] % Horizontal line
+% \HRule \\[0.4cm] % Horizontal line
+% {\huge \bfseries \ttitle\par}\vspace{0.4cm} % Thesis title
+% \HRule \\[1.5cm] % Horizontal line
  
-\begin{minipage}[t]{0.4\textwidth}
-\begin{flushleft} \large
-\emph{Author:}\\
-\href{http://www.johnsmith.com}{\authorname} % Author name - remove the \href bracket to remove the link
-\end{flushleft}
-\end{minipage}
-\begin{minipage}[t]{0.4\textwidth}
-\begin{flushright} \large
-\emph{Supervisor:} \\
-\href{http://www.jamessmith.com}{\supname} % Supervisor name - remove the \href bracket to remove the link  
-\end{flushright}
-\end{minipage}\\[3cm]
+% \begin{minipage}[t]{0.4\textwidth}
+% \begin{flushleft} \large
+% \emph{Author:}\\
+% \href{http://www.johnsmith.com}{\authorname} % Author name - remove the \href bracket to remove the link
+% \end{flushleft}
+% \end{minipage}
+% \begin{minipage}[t]{0.4\textwidth}
+% \begin{flushright} \large
+% \emph{Supervisor:} \\
+% \href{http://www.jamessmith.com}{\supname} % Supervisor name - remove the \href bracket to remove the link  
+% \end{flushright}
+% \end{minipage}\\[3cm]
  
-\vfill
+% \vfill
 
-\large \textit{A thesis submitted in fulfillment of the requirements\\ for the degree of \degreename}\\[0.3cm] % University requirement text
-\textit{in the}\\[0.4cm]
-\deptname\\[2cm] % Research group name and department name
+% \large \textit{A thesis submitted in fulfillment of the requirements\\ for the degree of \degreename}\\[0.3cm] % University requirement text
+% \textit{in the}\\[0.4cm]
+% \deptname\\[2cm] % Research group name and department name
  
-\vfill
+% \vfill
 
-{\large \today}\\[4cm] % Date
-%\includegraphics{Logo} % University/department logo - uncomment to place it
+% {\large \today}\\[4cm] % Date
+% %\includegraphics{Logo} % University/department logo - uncomment to place it
  
-\vfill
-\end{center}
-\end{titlepage}
+% \vfill
+% \end{center}
+% \end{titlepage}
 
 %----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
 
-\begin{abstract}
-\addchaptertocentry{\abstractname} % Add the abstract to the table of contents
-The economic literature on the Technology Transfer process has mainly focused on the university, as repository and distributor of knowledge. Today, however, this institution can be effectively substituted by various forms of private and publicly-funded organizations, especially for applied research. Therefore, there is a need for determining if, and how, the previous knowledge gained on the University-Industry Technology Transfer process can be applied also to private entities. This work aims to provide, initially, a review of the literature surrounding the phenomenon, with a specific focus on four different variables: involved actors, transfer channels, processes and mechanisms, governance and policy. Later, will be described various theoretical differences emerging when the University is substitute by a private organization, to inductively determine how peculiarities of these institutions may influence the process. Lastly, these theoretical differences will be tested against a case study, the Bruno Kessler Foundation, to confirm or refuse the hypothesis.
-\end{abstract}
+% \begin{abstract}
+% \addchaptertocentry{\abstractname} % Add the abstract to the table of contents
+% The economic literature on the Technology Transfer process has mainly focused on the university, as repository and distributor of knowledge. Today, however, this institution can be effectively substituted by various forms of private and publicly-funded organizations, especially for applied research. Therefore, there is a need for determining if, and how, the previous knowledge gained on the University-Industry Technology Transfer process can be applied also to private entities. This work aims to provide, initially, a review of the literature surrounding the phenomenon, with a specific focus on four different variables: involved actors, transfer channels, processes and mechanisms, governance and policy. Later, will be described various theoretical differences emerging when the University is substitute by a private organization, to inductively determine how peculiarities of these institutions may influence the process. Lastly, these theoretical differences will be tested against a case study, the Bruno Kessler Foundation, to confirm or refuse the hypothesis.
+% \end{abstract}
 
 %----------------------------------------------------------------------------------------
 %	LIST OF CONTENTS/FIGURES/TABLES PAGES
 %----------------------------------------------------------------------------------------
 
-\tableofcontents % Prints the main table of contents
+% \tableofcontents % Prints the main table of contents
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
@@ -165,12 +166,12 @@ The economic literature on the Technology Transfer process has mainly focused on
 
 \newcommand{\Chapter}[2]{\chapter [#1\hfil\hbox{}\protect] {#1\\[2ex]\Large#2}}
 
-\include{Chapters/Introduction}
-\include{Chapters/Chapter2}
-\include{Chapters/Chapter3} 
-\include{Chapters/Chapter4} 
-\include{Chapters/Chapter5} 
-\include{Chapters/Chapter6} 
+% \include{Chapters/Introduction}
+% \include{Chapters/Chapter2}
+% \include{Chapters/Chapter3} 
+% \include{Chapters/Chapter4} 
+% \include{Chapters/Chapter5} 
+% \include{Chapters/Chapter6} 
 \include{Chapters/Chapter7} 
 
 %----------------------------------------------------------------------------------------
@@ -185,7 +186,7 @@ The economic literature on the Technology Transfer process has mainly focused on
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\printbibliography[heading=bibintoc]
+% \printbibliography[heading=bibintoc]
 
 %----------------------------------------------------------------------------------------
 

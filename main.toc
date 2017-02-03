@@ -1,87 +1,25 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
 \select@language {english}
-\contentsline {chapter}{Abstract}{iii}{section*.1}
-\contentsline {chapter}{\numberline {1}Introduction\hfil \hbox {}}{1}{chapter.3}
-\contentsline {chapter}{\numberline {2}The University Side\hfil \hbox {}}{7}{chapter.4}
-\contentsline {section}{\numberline {2.1}University as institution}{7}{section.5}
-\contentsline {subsection}{\numberline {2.1.1}Performance and attitude}{13}{subsection.6}
-\contentsline {section}{\numberline {2.2}Academic scientists}{15}{section.7}
-\contentsline {subsection}{\numberline {2.2.1}Individual characteristics}{18}{subsection.8}
-\contentsline {subsection}{\numberline {2.2.2}Academic motivations}{18}{subsection.9}
-\contentsline {section}{\numberline {2.3}Technology Transfer Offices}{20}{section.10}
-\contentsline {subsection}{\numberline {2.3.1}Organizational forms}{23}{subsection.11}
-\contentsline {subsection}{\numberline {2.3.2}Organizational models and objectives}{25}{subsection.12}
-\contentsline {subsection}{\numberline {2.3.3}Activities and personnel}{26}{subsection.13}
-\contentsline {section}{\numberline {2.4}Faculty}{28}{section.14}
-\contentsline {chapter}{\numberline {3}The Industry Side\hfil \hbox {}}{31}{chapter.15}
-\contentsline {section}{\numberline {3.1}Firms}{31}{section.16}
-\contentsline {subsection}{\numberline {3.1.1}Absorptive capacity}{33}{subsection.17}
-\contentsline {subsection}{\numberline {3.1.2}Social capital}{35}{subsection.18}
-\contentsline {subsection}{\numberline {3.1.3}Networks and location}{35}{subsection.19}
-\contentsline {section}{\numberline {3.2}Spinoffs}{37}{section.20}
-\contentsline {subsection}{\numberline {3.2.1}Types}{38}{subsection.21}
-\contentsline {subsection}{\numberline {3.2.2}Factors}{40}{subsection.22}
-\contentsline {section}{\numberline {3.3}Other external agents}{41}{section.23}
-\contentsline {subsection}{\numberline {3.3.1}External research organizations}{41}{subsection.24}
-\contentsline {subsection}{\numberline {3.3.2}External technology transfer organizations}{43}{subsection.25}
-\contentsline {subsection}{\numberline {3.3.3}Incubators and science parks}{43}{subsection.26}
-\contentsline {subsection}{\numberline {3.3.4}An endless list}{44}{subsection.27}
-\contentsline {chapter}{\numberline {4}Channels\hfil \hbox {}}{45}{chapter.28}
-\contentsline {section}{\numberline {4.1}Channels and categories}{45}{section.29}
-\contentsline {section}{\numberline {4.2}Patents and licenses}{47}{section.30}
-\contentsline {section}{\numberline {4.3}Spinoffs}{51}{section.31}
-\contentsline {subsection}{\numberline {4.3.1}Entrepreneurs and teams}{52}{subsection.32}
-\contentsline {section}{\numberline {4.4}Contract and cooperative research}{53}{section.33}
-\contentsline {section}{\numberline {4.5}Informal channels}{55}{section.34}
-\contentsline {section}{\numberline {4.6}Relative importance of channels}{57}{section.35}
-\contentsline {section}{\numberline {4.7}Barriers}{58}{section.36}
-\contentsline {subsection}{\numberline {4.7.1}Cognitive distance}{58}{subsection.37}
-\contentsline {subsection}{\numberline {4.7.2}Supportive mechanisms}{60}{subsection.38}
-\contentsline {subsection}{\numberline {4.7.3}Compatibility}{61}{subsection.39}
-\contentsline {chapter}{\numberline {5}Policies and evaluation\hfil \hbox {}}{63}{chapter.40}
-\contentsline {section}{\numberline {5.1}Evaluation}{63}{section.41}
-\contentsline {section}{\numberline {5.2}SFE, DEA and qualitative approaches}{64}{section.42}
-\contentsline {subsection}{\numberline {5.2.1}Other approaches}{66}{subsection.43}
-\contentsline {section}{\numberline {5.3}Policies}{67}{section.44}
-\contentsline {subsection}{\numberline {5.3.1}University-level policies}{68}{subsection.45}
-\contentsline {subsubsection}{General policies}{69}{section*.46}
-\contentsline {subsubsection}{Patenting}{71}{section*.47}
-\contentsline {subsubsection}{Spinoffs}{72}{section*.48}
-\contentsline {subsubsection}{TTOs}{73}{section*.49}
-\contentsline {section}{\numberline {5.4}Institutional-level policies}{74}{section.50}
-\contentsline {subsection}{\numberline {5.4.1}Geography does matter}{75}{subsection.51}
-\contentsline {subsection}{\numberline {5.4.2}Short-term policiy objectives}{76}{subsection.52}
-\contentsline {subsection}{\numberline {5.4.3}RIS, NIS and triple helix}{77}{subsection.53}
-\contentsline {chapter}{\numberline {6}Theoretical differences\hfil \hbox {}}{79}{chapter.54}
-\contentsline {section}{\numberline {6.1}Actors}{80}{section.55}
-\contentsline {subsection}{\numberline {6.1.1}The institution}{80}{subsection.56}
-\contentsline {subsection}{\numberline {6.1.2}Researchers}{82}{subsection.57}
-\contentsline {section}{\numberline {6.2}Channels}{83}{section.58}
-\contentsline {subsection}{\numberline {6.2.1}Preference}{84}{subsection.59}
-\contentsline {subsection}{\numberline {6.2.2}Mechanisms}{86}{subsection.60}
-\contentsline {section}{\numberline {6.3}Evaluation}{87}{section.61}
-\contentsline {section}{\numberline {6.4}Policies: examples}{90}{section.62}
-\contentsline {chapter}{\numberline {7}Case Study\hfil \hbox {}}{93}{chapter.63}
-\contentsline {section}{\numberline {7.1}The institution}{94}{section.64}
-\contentsline {subsection}{\numberline {7.1.1}Organizational structure}{95}{subsection.68}
-\contentsline {subsection}{\numberline {7.1.2}TTO structure}{96}{subsection.70}
-\contentsline {section}{\numberline {7.2}Channels}{98}{section.71}
-\contentsline {subsection}{\numberline {7.2.1}External perspective}{99}{subsection.72}
-\contentsline {subsubsection}{For firms}{99}{section*.73}
-\contentsline {subsubsection}{For research organizations}{100}{section*.74}
-\contentsline {subsubsection}{For spinoff}{101}{section*.75}
-\contentsline {subsection}{\numberline {7.2.2}Internal perspective}{101}{subsection.76}
-\contentsline {subsubsection}{Ignition}{102}{section*.77}
-\contentsline {subsubsection}{Evaluation}{102}{section*.78}
-\contentsline {subsubsection}{Development}{102}{section*.79}
-\contentsline {subsubsection}{Finalization}{102}{section*.80}
-\contentsline {section}{\numberline {7.3}Evaluation}{102}{section.81}
-\contentsline {subsection}{\numberline {7.3.1}Effectiveness}{102}{subsection.82}
-\contentsline {subsection}{\numberline {7.3.2}Efficiency}{104}{subsection.83}
-\contentsline {subsubsection}{Performance comparison over time}{104}{section*.84}
-\contentsline {subsubsection}{Performance comparison between competitor}{106}{section*.85}
-\contentsline {section}{\numberline {7.4}Policies}{107}{section.86}
-\contentsline {subsubsection}{Policy for the valorization of FBK research}{107}{section*.87}
-\contentsline {subsubsection}{Child policies}{108}{section*.88}
-\contentsline {chapter}{Bibliography}{111}{chapter*.90}
+\contentsline {chapter}{\numberline {1}Case Study\hfil \hbox {}}{1}{chapter.2}
+\contentsline {section}{\numberline {1.1}The institution}{2}{section.3}
+\contentsline {subsection}{\numberline {1.1.1}Organizational structure}{3}{subsection.7}
+\contentsline {subsection}{\numberline {1.1.2}TTO structure}{4}{subsection.9}
+\contentsline {section}{\numberline {1.2}Channels}{6}{section.10}
+\contentsline {subsection}{\numberline {1.2.1}External perspective}{7}{subsection.11}
+\contentsline {subsubsection}{For firms}{7}{section*.12}
+\contentsline {subsubsection}{For research organizations}{8}{section*.13}
+\contentsline {subsubsection}{For spinoff}{9}{section*.14}
+\contentsline {subsection}{\numberline {1.2.2}Internal perspective}{9}{subsection.15}
+\contentsline {subsubsection}{Ignition}{10}{section*.16}
+\contentsline {subsubsection}{Evaluation}{10}{section*.17}
+\contentsline {subsubsection}{Development}{10}{section*.18}
+\contentsline {subsubsection}{Finalization}{10}{section*.19}
+\contentsline {section}{\numberline {1.3}Evaluation}{10}{section.20}
+\contentsline {subsection}{\numberline {1.3.1}Effectiveness}{10}{subsection.21}
+\contentsline {subsection}{\numberline {1.3.2}Efficiency}{12}{subsection.22}
+\contentsline {subsubsection}{Performance comparison over time}{12}{section*.23}
+\contentsline {subsubsection}{Performance comparison between competitor}{14}{section*.24}
+\contentsline {section}{\numberline {1.4}Policies}{15}{section.25}
+\contentsline {subsubsection}{Policy for the valorization of FBK research}{15}{section*.26}
+\contentsline {subsubsection}{Child policies}{16}{section*.27}
