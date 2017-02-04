@@ -71,7 +71,7 @@
 \contentsline {subsubsection}{For firms}{99}{section*.73}
 \contentsline {subsubsection}{For research organizations}{100}{section*.74}
 \contentsline {subsubsection}{For spinoff}{101}{section*.75}
-\contentsline {subsection}{\numberline {7.2.2}Internal perspective}{101}{subsection.76}
+\contentsline {subsection}{\numberline {7.2.2}Internal perspective}{102}{subsection.76}
 \contentsline {subsubsection}{Ignition}{102}{section*.77}
 \contentsline {subsubsection}{Evaluation}{102}{section*.78}
 \contentsline {subsubsection}{Development}{102}{section*.79}
@@ -79,9 +79,9 @@
 \contentsline {section}{\numberline {7.3}Evaluation}{102}{section.81}
 \contentsline {subsection}{\numberline {7.3.1}Effectiveness}{102}{subsection.82}
 \contentsline {subsection}{\numberline {7.3.2}Efficiency}{104}{subsection.83}
-\contentsline {subsubsection}{Performance comparison over time}{104}{section*.84}
+\contentsline {subsubsection}{Performance comparison over time}{105}{section*.84}
 \contentsline {subsubsection}{Performance comparison between competitor}{106}{section*.85}
 \contentsline {section}{\numberline {7.4}Policies}{107}{section.86}
-\contentsline {subsubsection}{Policy for the valorization of FBK research}{107}{section*.87}
-\contentsline {subsubsection}{Child policies}{108}{section*.88}
+\contentsline {subsubsection}{Policy for the valorization of FBK research}{108}{section*.87}
+\contentsline {subsubsection}{Child policies}{109}{section*.88}
 \contentsline {chapter}{Bibliography}{111}{chapter*.90}
