@@ -15,7 +15,7 @@
 
 \documentclass[
 11pt, % The default document font size, options: 10pt, 11pt, 12pt
-%oneside, % Two side (alternating margins) for binding by default, uncomment to switch to one side
+oneside, % Two side (alternating margins) for binding by default, uncomment to switch to one side
 english, % ngerman for German
 singlespacing, % Single line spacing, alternatives: onehalfspacing or doublespacing
 %draft, % Uncomment to enable draft mode (no pictures, no links, overfull hboxes indicated)
@@ -85,8 +85,7 @@ headsepline, % Uncomment to get a line under the header
 \hypersetup{pdfauthor=\authorname} % Set the PDF's author to your name
 \hypersetup{pdfkeywords=\keywordnames} % Set the PDF's keywords to your keywords
 \hypersetup{
-	colorlinks = true,
-	linkcolor = black
+	colorlinks = true
 	}
 }
 
@@ -152,7 +151,9 @@ The economic literature on the Technology Transfer process has mainly focused on
 %	LIST OF CONTENTS/FIGURES/TABLES PAGES
 %----------------------------------------------------------------------------------------
 
-\tableofcontents % Prints the main table of contents
+{\hypersetup{linkcolor=black}
+	\tableofcontents % Prints the main table of contents
+}
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - CHAPTERS
@@ -173,6 +174,7 @@ The economic literature on the Technology Transfer process has mainly focused on
 \include{Chapters/Chapter5} 
 \include{Chapters/Chapter6} 
 \include{Chapters/Chapter7} 
+\include{Chapters/Chapter8} 
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES

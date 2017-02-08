@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  5 FEB 2017 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  8 FEB 2017 16:47
 entering extended mode
 **./main.tex
 (main.tex
@@ -1724,7 +1724,7 @@ LaTeX Info: Redefining \pageref on input line 6416.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 93.
+(scrhack)             need that hack, on input line 92.
 
 
 Package hyperref Message: Driver (autodetected): hpdftex.
@@ -1741,17 +1741,17 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 93.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 93.
-Package hyperref Info: Option `colorlinks' set `true' on input line 93.
-Package hyperref Info: Option `unicode' set `true' on input line 93.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 92.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 92.
+Package hyperref Info: Option `colorlinks' set `true' on input line 92.
+Package hyperref Info: Option `unicode' set `true' on input line 92.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
 File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 93.
+Package hyperref Info: Option `breaklinks' set `true' on input line 92.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1763,32 +1763,34 @@ Package csquotes Info: ... found 'babel' package.
  (main.aux
 (Chapters/Introduction.aux) (Chapters/Chapter2.aux) (Chapters/Chapter3.aux)
 (Chapters/Chapter4.aux) (Chapters/Chapter5.aux) (Chapters/Chapter6.aux)
-(Chapters/Chapter7.aux))
+(Chapters/Chapter7.aux) (Chapters/Chapter8.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 93.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 92.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1904,7 +1906,7 @@ Package caption Info: End \AtBeginDocument code.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includehead includefoot twoside 
+* modes: includehead includefoot 
 * h-part:(L,W,R)=(99.58464pt, 398.3386pt, 99.58464pt)
 * v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
@@ -1918,7 +1920,7 @@ Package caption Info: End \AtBeginDocument code.
 * \headsep=19.8738pt
 * \topskip=11.0pt
 * \footskip=27.46295pt
-* \marginparwidth=116.0pt
+* \marginparwidth=62.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -1926,20 +1928,20 @@ Package caption Info: End \AtBeginDocument code.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 93.
-Package scrbase Info: activating english \abbrevname on input line 93.
-Package scrbase Info: activating english \byname on input line 93.
-Package scrbase Info: activating english \acknowledgementname on input line 93.
+(scrlayer)             \begin{document} on input line 92.
+Package scrbase Info: activating english \abbrevname on input line 92.
+Package scrbase Info: activating english \byname on input line 92.
+Package scrbase Info: activating english \acknowledgementname on input line 92.
 
-Package scrbase Info: activating english \authorshipname on input line 93.
-Package scrbase Info: activating english \constantsname on input line 93.
-Package scrbase Info: activating english \symbolsname on input line 93.
+Package scrbase Info: activating english \authorshipname on input line 92.
+Package scrbase Info: activating english \constantsname on input line 92.
+Package scrbase Info: activating english \symbolsname on input line 92.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -2002,24 +2004,24 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: Reference section=0 on input line 92.
+Package biblatex Info: Reference segment=0 on input line 92.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\ttitle' on input line 93.
+(hyperref)                removing `\ttitle' on input line 92.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\authorname' on input line 93.
+(hyperref)                removing `\authorname' on input line 92.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\keywordnames' on input line 93.
+(hyperref)                removing `\keywordnames' on input line 92.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 93.
+Package hyperref Info: Option `colorlinks' set `true' on input line 92.
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 93.
+Package hyperref Info: Link coloring ON on input line 92.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -2028,9 +2030,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count367
 )
-LaTeX Info: Redefining \ref on input line 93.
-LaTeX Info: Redefining \pageref on input line 93.
-LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \ref on input line 92.
+LaTeX Info: Redefining \pageref on input line 92.
+LaTeX Info: Redefining \nameref on input line 92.
 
 (main.out) (main.out)
 \@outlinefile=\write5
@@ -2041,37 +2043,35 @@ LaTeX Info: Redefining \nameref on input line 93.
 
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 111.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 110.
 [1
 
 
 
-{C:/Users/marti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
-
-]
+{C:/Users/marti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 --------------------
  Abstract
 --------------------
 
-Package hyperref Warning: Suppressing empty link on input line 146.
+Package hyperref Warning: Suppressing empty link on input line 145.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 146.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 145.
 1: section
-[3] [4
+[1
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 155.
  (main.toc
 1: section
-[5] [6])
+[2
+
+] [3])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [7] [8
-
-]
+ [4]
 1: section
 \openout2 = `Chapters/Introduction.aux'.
 
@@ -2093,6 +2093,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 [1
 
 
+
 ]
 Overfull \hbox (4.56079pt too wide) in paragraph at lines 26--27
 \T1/ppl/m/n/10.95 iden-ti-fies a his-tor-i-cal mo-ment with clear neg-a-tive ex
@@ -2102,11 +2103,7 @@ Overfull \hbox (4.56079pt too wide) in paragraph at lines 26--27
 [2] [3] [4]) [5]
 \openout2 = `Chapters/Chapter2.aux'.
 
- (Chapters/Chapter2.tex [6
-
-
-
-]
+ (Chapters/Chapter2.tex
 Chapter 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2117,77 +2114,81 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
 
 1: section
-[7]
-Overfull \hbox (2.03128pt too wide) in paragraph at lines 19--20
+[6
+
+
+
+]
+Overfull \hbox (2.03128pt too wide) in paragraph at lines 20--21
 \T1/ppl/m/n/10.95 funded in-sti-tu-tions like uni-ver-si-ties, es-pe-cially whe
 n con-sid-er-ing the type of knowl-
  []
 
-
-Overfull \hbox (6.19308pt too wide) in paragraph at lines 27--28
+[7]
+Overfull \hbox (6.19308pt too wide) in paragraph at lines 28--29
 \T1/ppl/m/n/10.95 com-pet-i-tive-ness through a performance-based fund-ing. How
 -ever, even if the change
  []
 
-[8] [9]
-Overfull \hbox (2.01004pt too wide) in paragraph at lines 43--44
+[8]
+Overfull \hbox (2.01004pt too wide) in paragraph at lines 44--45
 []\T1/ppl/m/n/10.95 Nowadays, the im-por-tance of en-trepreneurial uni-ver-si-t
 ies can be eval-u-ated through
  []
 
-[10] [11] [12]
-Overfull \hbox (6.9807pt too wide) in paragraph at lines 79--80
+[9] [10] [11]
+Overfull \hbox (6.9807pt too wide) in paragraph at lines 80--81
 \T1/ppl/m/n/10.95 this cor-re-la-tion, at least in par-tic-u-lar per-spec-tives
 , like the re-sults showed by []Thursby
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 83.
-[13] [14] [15]
-Overfull \hbox (10.09093pt too wide) in paragraph at lines 119--120
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 84.
+[12] [13] [14]
+Overfull \hbox (10.09093pt too wide) in paragraph at lines 120--121
 []\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults shown that, once con-trolled for 
 the rel-a-tive abil-ity of re-searchers,
  []
 
-[16] [17] [18] [19] [20]
-Overfull \hbox (1.10106pt too wide) in paragraph at lines 193--194
+[15] [16] [17] [18] [19] [20]
+Overfull \hbox (1.10106pt too wide) in paragraph at lines 194--195
 []\T1/ppl/m/n/10.95 Within this per-spec-tive, in-ter-me-di-aries can en-hance 
 the over-all sys-tem per-for-mance
  []
 
-[21] [22]
-Overfull \hbox (6.88237pt too wide) in paragraph at lines 209--210
+[21]
+Overfull \hbox (6.88237pt too wide) in paragraph at lines 210--211
 \T1/ppl/m/n/10.95 bu-reau-cratic or-ga-ni-za-tional cul-ture makes them in-flex
 -i-ble in struc-tur-ing deals ([]Siegel
  []
 
-[23] [24] [25]
-Overfull \hbox (3.29189pt too wide) in paragraph at lines 249--250
+[22] [23] [24]
+Overfull \hbox (3.29189pt too wide) in paragraph at lines 250--251
 [][]\T1/ppl/m/n/10.95 Fitzgerald and Cun-ning-ham ([][]2015[][]) use a quite di
 f-fer-ent ap-proach to un-cover drivers
  []
 
-[26]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 261.
+[25]
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 262.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 261.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 262.
 
-Overfull \hbox (3.15976pt too wide) in paragraph at lines 269--270
+Overfull \hbox (3.15976pt too wide) in paragraph at lines 270--271
 []\T1/ppl/m/n/10.95 This sce-nario high-light the im-por-tance for TTOs of hav-
 ing highly skilled and trained
  []
 
 
-Overfull \hbox (3.47722pt too wide) in paragraph at lines 269--270
+Overfull \hbox (3.47722pt too wide) in paragraph at lines 270--271
 \T1/ppl/m/n/10.95 pro-fes-sion-als. Ev-ery ac-tiv-ity re-quires spe-cific knowl
 -edge and of-ten in-ter-dis-ci-plinary
  []
 
-[27] [28] [29]) [30]
+[26] [27] [28]) [29]
 \openout2 = `Chapters/Chapter3.aux'.
 
  (Chapters/Chapter3.tex
@@ -2201,35 +2202,35 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
 
 1: section
-[31
+[30
 
 
 
-] [32] [33] [34] [35] [36]
-Overfull \hbox (10.51794pt too wide) in paragraph at lines 83--84
+] [31] [32] [33] [34] [35] [36]
+Overfull \hbox (10.51794pt too wide) in paragraph at lines 85--86
 \T1/ppl/m/n/10.95 dus-try tech-nol-ogy trans-fer, it re-quires longer pe-ri-ods
 . As ex-am-ple, uni-ver-sity spinoffs
  []
 
-[37] [38]
-Overfull \hbox (0.72995pt too wide) in paragraph at lines 107--108
+[37]
+Overfull \hbox (0.72995pt too wide) in paragraph at lines 109--110
 [][]\T1/ppl/m/n/10.95 Radosevich ([][]1955[][]), in par-tic-u-lar, an-a-lyzed a
 nd com-pared these dif-fer-ent ap-proaches
  []
 
-[39]
-Overfull \hbox (2.50322pt too wide) in paragraph at lines 117--118
+[38]
+Overfull \hbox (2.50322pt too wide) in paragraph at lines 119--120
 \T1/ppl/m/n/10.95 Academic and in-dus-trial en-trepreneurs may be driven by two
  generic kind of forces:
  []
 
-[40] [41] [42]
-Overfull \hbox (0.19244pt too wide) in paragraph at lines 153--154
+[39] [40] [41]
+Overfull \hbox (0.19244pt too wide) in paragraph at lines 155--156
 \T1/ppl/m/n/10.95 bridg-ing or-ga-ni-za-tions with dif-fer-ent back-grounds, in
  the case of multi-disciplinary
  []
 
-[43]) [44]
+[42]) [43] [44]
 \openout2 = `Chapters/Chapter4.aux'.
 
  (Chapters/Chapter4.tex
@@ -2248,30 +2249,30 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ]
-Overfull \hbox (10.47504pt too wide) in paragraph at lines 24--25
+Overfull \hbox (10.47504pt too wide) in paragraph at lines 25--26
 []\T1/ppl/m/n/10.95 Other au-thors grouped the en-sem-ble of mech-a-nisms in di
 f-fer-ent chan-nels and groups,
  []
 
 [46] [47] [48] [49] [50] [51] [52] [53]
-Overfull \hbox (3.69681pt too wide) in paragraph at lines 108--109
+Overfull \hbox (3.69681pt too wide) in paragraph at lines 109--110
 []\T1/ppl/m/n/10.95 Collaborative re-search projects are usu-ally based on a co
 -op-er-a-tion agree-ment, which
  []
 
 [54] [55] [56]
-Overfull \hbox (1.67004pt too wide) in paragraph at lines 142--143
+Overfull \hbox (1.67004pt too wide) in paragraph at lines 143--144
 []\T1/ppl/m/n/10.95 Starting points are var-i-ous con-tri-bu-tions which in-di-
 cate that patents, in-de-pen-dently
  []
 
 [57]
-Overfull \hbox (3.62pt too wide) in paragraph at lines 160--161
+Overfull \hbox (3.62pt too wide) in paragraph at lines 161--162
 \T1/ppl/m/n/10.95 firms and uni-ver-si-ties also lack an ap-pro-pri-ate mu-tual
  un-der-stand-ing when it comes
  []
 
-[58] [59] [60] [61]) [62]
+[58] [59] [60] [61]) [62] [63]
 \openout2 = `Chapters/Chapter5.aux'.
 
  (Chapters/Chapter5.tex
@@ -2284,48 +2285,48 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
 
+1: section
+[64
 
-Overfull \hbox (11.79915pt too wide) in paragraph at lines 17--18
+
+
+]
+Overfull \hbox (11.79915pt too wide) in paragraph at lines 19--20
 \T1/ppl/m/n/10.95 patent ap-pli-ca-tions, granted patents, li-censes and their 
 in-come, the num-ber of spinoffs
  []
 
-1: section
-[63
-
-
-
-] [64] [65] [66] [67]
-Overfull \hbox (4.80219pt too wide) in paragraph at lines 67--68
+[65] [66] [67] [68]
+Overfull \hbox (4.80219pt too wide) in paragraph at lines 69--70
 \T1/ppl/m/n/10.95 and shap-ing the uni-ver-sity at-ti-tude to-ward tech-nol-ogy
  trans-fer: as pre-vi-ously noted,
  []
 
-[68]
-Overfull \hbox (63.53825pt too wide) in paragraph at lines 81--82
+[69]
+Overfull \hbox (63.53825pt too wide) in paragraph at lines 83--84
 [][]\T1/ppl/m/n/10.95 Hunter et al. ([][]2011[][]) in-ves-ti-gate this per-spec
 -tive fur-ther dif-fer-en-ti-at-ing among commercialization-
  []
 
-[69]
-Overfull \hbox (4.55075pt too wide) in paragraph at lines 95--96
+[70]
+Overfull \hbox (4.55075pt too wide) in paragraph at lines 97--98
 []\T1/ppl/m/n/10.95 Policy state-ments should ac-knowl-edge the im-por-tance of
  the tech-nol-ogy trans-
  []
 
-[70]
-Overfull \hbox (14.42776pt too wide) in paragraph at lines 108--109
+[71]
+Overfull \hbox (14.42776pt too wide) in paragraph at lines 110--111
 []\T1/ppl/m/n/10.95 ---Has been demon-strated that char-ac-ter-is-tics of in-di
 -vid-ual re-searchers have a stronger
  []
 
-[71] [72] [73] [74] [75]
-Overfull \hbox (1.70335pt too wide) in paragraph at lines 176--177
+[72] [73] [74] [75] [76] [77]
+Overfull \hbox (1.70335pt too wide) in paragraph at lines 178--179
 \T1/ppl/m/n/10.95 any-way, for poli-cies to cre-ate or pro-mote a fa-vor-able c
 on-text for co-op-er-a-tive projects
  []
 
-[76] [77]) [78]
+[78]) [79] [80]
 \openout2 = `Chapters/Chapter6.aux'.
 
  (Chapters/Chapter6.tex
@@ -2339,47 +2340,47 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
 
 1: section
-[79
+[81
 
 
 
-] [80]
-Overfull \hbox (3.86028pt too wide) in paragraph at lines 37--38
+] [82]
+Overfull \hbox (3.86028pt too wide) in paragraph at lines 41--42
 []\T1/ppl/m/n/10.95 Private or-ga-ni-za-tions in-stead in-vert the rel-a-tive i
 m-por-tance of their fund-ing sources.
  []
 
-[81] [82] [83] [84] [85] [86] [87] [88] [89]
-Overfull \hbox (2.23889pt too wide) in paragraph at lines 149--150
+[83] [84] [85] [86] [87] [88] [89] [90] [91]
+Overfull \hbox (2.23889pt too wide) in paragraph at lines 153--154
 []\T1/ppl/m/n/10.95 A par-tic-u-larly use-ful in-sight on the per-for-mance of 
 the top-level man-age-ment might
  []
 
 
-Overfull \hbox (4.43pt too wide) in paragraph at lines 149--150
+Overfull \hbox (4.43pt too wide) in paragraph at lines 153--154
 \T1/ppl/m/n/10.95 arise from the anal-y-sis of inter-unit in-di-ca-tors, as in 
 num-ber of col-lab-o-ra-tive projects,
  []
 
 
-Overfull \hbox (3.06114pt too wide) in paragraph at lines 153--154
+Overfull \hbox (3.06114pt too wide) in paragraph at lines 157--158
 \T1/ppl/m/n/10.95 im-ple-men-ta-tion of ef-fec-tive poli-cies: method-olog-i-ca
 l and struc-tured pro-cesses make
  []
 
-
-Overfull \hbox (8.34935pt too wide) in paragraph at lines 157--158
+[92]
+Overfull \hbox (8.34935pt too wide) in paragraph at lines 161--162
 \T1/ppl/m/n/10.95 in-sti-tu-tional ac-tiv-i-ties, as in mar-ket-ing and busi-ne
 ss de-vel-op-ment ac-tiv-i-ties: planned,
  []
 
 
-Overfull \hbox (1.67079pt too wide) in paragraph at lines 159--160
+Overfull \hbox (1.67079pt too wide) in paragraph at lines 163--164
 \T1/ppl/m/n/10.95 based or-ga-ni-za-tion. There is the need for poli-cies that 
 de-scribe which ac-tions should
  []
 
-[90]) [91] [92]
+[93]) [94]
 \openout2 = `Chapters/Chapter7.aux'.
 
  (Chapters/Chapter7.tex
@@ -2393,71 +2394,78 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
 
 1: section
-[93
+[95
 
 
 
-] [94]
+] [96]
 Overfull \hbox (1.4185pt too wide) in paragraph at lines 45--46
 \T1/ppl/m/n/10.95 con-tin-u-ous du-al-ity, be-tween tech-no-log-i-cal progress 
 and his-tor-i-cal lug-gage, be-tween
  []
 
-[95] [96] [97] [98] [99] [100] (Chapters/fbkprocesses.tex [101]
+[97] [98] [99] [100] [101] [102] (Chapters/fbkprocesses.tex [103]
 Overfull \hbox (5.16373pt too wide) in paragraph at lines 11--12
 []\T1/ppl/m/n/10.95 Within the CMM, the pro-cess usu-ally be-gins with re-searc
 hers de-liv-er-ing a patentable
  []
 
-[102] [103] [104]
-Overfull \hbox (0.65198pt too wide) in paragraph at lines 55--56
-[]\T1/ppl/m/n/10.95 More specif-i-cally, the call doc-u-men-ta-tion will be sen
-t to any pos-si-ble sci-en-tist whom
+[104]
+Overfull \hbox (11.4156pt too wide) in paragraph at lines 33--34
+\T1/ppl/m/n/10.95 AIRT. Along with mar-ket-ing ac-tiv-i-ties, he ac-tively elic
+-its in-for-ma-tion from re-searchers
  []
 
-[105] [106] [107]
-Overfull \hbox (28.58519pt too wide) in paragraph at lines 97--98
-[]\T1/ppl/m/n/10.95 Regarding the first pro-cess, the iden-ti-fi-ca-tion and co
-n-tact of po-ten-tial cus-tomers/partners
- []
-
-
-Overfull \hbox (68.06995pt too wide) in paragraph at lines 101--102
-[]\T1/ppl/m/n/10.95 An in-ter-est-ing point here is the at-tempt to bal-ance (A
-) an ex-treme fo-cus on a resource/knowledge-
- []
-
-[108]
-Overfull \hbox (3.1266pt too wide) in paragraph at lines 109--111
-\T1/ppl/m/n/10.95 con-tacts, in-ter-na-tional vis-i-bil-ity of re-searchers, pu
-b-li-ca-tions, grant agree-ments, web-
- []
-
-[109] [110] [111]) [112] [113] [114] [115] [116]
+[105] [106] [107] [108] [109] [110]) [111] [112] [113] [114] [115]
 Overfull \hbox (1.7034pt too wide) in paragraph at lines 228--229
 []\T1/ppl/m/n/10.95 However, dif-fer-ences among these or-ga-ni-za-tions out-we
 igh their sim-i-lar-i-ties. Firstly,
  []
 
-[117]
+[116]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 238.
 
-[118]
+
 Overfull \hbox (2.50389pt too wide) in paragraph at lines 252--253
 \T1/ppl/m/n/10.95 funded through re-search grants or di-rect re-search con-trac
 ts from pri-vate firms.
  []
 
-
+[117]
 Overfull \hbox (1.30894pt too wide) in paragraph at lines 260--266
 \T1/ppl/m/n/10.95 scribes the will-ing-ness to pro-tect and val-orize the in-te
 l-lec-tual prop-erty, mainly
  []
 
-[119]) [120]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 189.
+[118]) [119]
+\openout2 = `Chapters/Chapter8.aux'.
+
+ (Chapters/Chapter8.tex
+Chapter 8.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hfil' on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\hbox' on input line 3.
+
+
+Overfull \hbox (17.99692pt too wide) in paragraph at lines 11--15
+[]\T1/ppl/m/n/10.95 3 pro re-search per-for-mance: buoni ricer-ca-tori e un'org
+anizzazione sup-port-iva l'impatto
+ []
+
+)
+1: section
+[120
+
+
+
+]
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 191.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -2466,20 +2474,20 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 
 ]
-Overfull \hbox (9.5338pt too wide) in paragraph at lines 189--189
+Overfull \hbox (9.5338pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 ments and mar-ket struc-ture. In: \T1/ppl/m/it/10.95 Re-sear
 ch Pol-icy \T1/ppl/m/n/10.95 31.7, pp. 11411161. \T1/ppl/m/sc/10.95 issn\T1/pp
 l/m/n/10.95 : 00487333.
  []
 
 
-Overfull \hbox (2.70383pt too wide) in paragraph at lines 189--189
+Overfull \hbox (2.70383pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 Re-la-tion-ships with In-dus-try. In: \T1/ppl/m/it/10.95 New
  Eng-land Jour-nal of Medicine \T1/ppl/m/n/10.95 335.23, pp. 1734
  []
 
 [122]
-Overfull \hbox (5.59096pt too wide) in paragraph at lines 189--189
+Overfull \hbox (5.59096pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 Amer-i-can Jour-nal of So-ci-ol-ogy \T1/ppl/m/n/10.95 94.198
 8, S95. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 0002-9602. \T1/ppl/m/sc/10.9
 5 doi\T1/ppl/m/n/10.95 : [][]$\T1/pcr/m/n/10.95 10 . 1086 / 228943$[][]\T1/ppl/
@@ -2487,64 +2495,64 @@ m/n/10.95 .
  []
 
 [123]
-Overfull \hbox (23.33994pt too wide) in paragraph at lines 189--189
+Overfull \hbox (23.33994pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Fisher, Don-ald and Janet Atkinson-Grosjean (2002).   Br
 o-kers on the bound-ary: Academy
  []
 
 
-Overfull \hbox (4.27197pt too wide) in paragraph at lines 189--189
+Overfull \hbox (4.27197pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Fritsch, Michael and Vik-tor Slavtchev (2007).   Uni-ver
 -si-ties and in-no-va-tion in space.
  []
 
 
-Overfull \hbox (13.02837pt too wide) in paragraph at lines 189--189
+Overfull \hbox (13.02837pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/ppl/m/n/10.95 31.12, pp. 638647. \T1/pp
 l/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/
 n/10.95 : [][]$\T1/pcr/m/n/10.95 10 . 1016 / j . technovation .
  []
 
 [124]
-Overfull \hbox (8.0069pt too wide) in paragraph at lines 189--189
+Overfull \hbox (8.0069pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 In: \T1/ppl/m/it/10.95 In-ter-na-tional Jour-nal of In-dus-tr
 ial Or-ga-ni-za-tion \T1/ppl/m/n/10.95 23.5-6, pp. 483503. \T1/ppl/m/sc/10.95 
 issn\T1/ppl/m/n/10.95 : 01677187.
  []
 
 
-Overfull \hbox (0.67882pt too wide) in paragraph at lines 189--189
+Overfull \hbox (0.67882pt too wide) in paragraph at lines 191--191
 [][]$\T1/pcr/m/n/10.95 http : / / www . nature . com / nbt / journal / v20 / n6
 s / full / nbt0602supp -[]
  []
 
 
-Overfull \hbox (13.73839pt too wide) in paragraph at lines 189--189
+Overfull \hbox (13.73839pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 to mea-sure ab-sorp-tive ca-pac-ity. In: \T1/ppl/m/it/10.95 
 Tech-no-va-tion \T1/ppl/m/n/10.95 31.5-6, pp. 190202. \T1/ppl/m/sc/10.95 issn\
 T1/ppl/m/n/10.95 : 01664972.
  []
 
 
-Overfull \hbox (17.52228pt too wide) in paragraph at lines 189--189
+Overfull \hbox (17.52228pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Klofsten, Mag-nus and Dy-lan Jones-Evans (2000).   Com-p
 ar-ing Aca-demic En-trepreneur-
  []
 
 [125]
-Overfull \hbox (4.14882pt too wide) in paragraph at lines 189--189
+Overfull \hbox (4.14882pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 Be-hav-iors among Life Sci-en-tists. In: \T1/ppl/m/it/10.95 
 Ad-min-is-tra-tive Sci-ence Quar-terly \T1/ppl/m/n/10.95 34.1, pp. 110
  []
 
 [126]
-Overfull \hbox (6.81386pt too wide) in paragraph at lines 189--189
+Overfull \hbox (6.81386pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 and eco-nomic growth. In: \T1/ppl/m/it/10.95 The dy-namic fi
 rm, Ox-ford Uni-ver-sity Press, Ox-ford\T1/ppl/m/n/10.95 , pp. 45
  []
 
 [127]
-Overfull \hbox (0.62193pt too wide) in paragraph at lines 189--189
+Overfull \hbox (0.62193pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 ogy Trans-fer \T1/ppl/m/n/10.95 26.1, pp. 99114. \T1/ppl/m/
 sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10
 .95 : [][]$\T1/pcr/m/n/10.95 10 . 1023 / A : 1007892413701$[][]\T1/ppl/m/n/10.9
@@ -2552,13 +2560,13 @@ sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10
  []
 
 [128]
-Overfull \hbox (16.52689pt too wide) in paragraph at lines 189--189
+Overfull \hbox (16.52689pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Siegel, Don-ald S et al. (2003b).   Sci-ence Parks and t
 he Per-for-mance of New Technology-
  []
 
 [129]
-Overfull \hbox (0.74225pt too wide) in paragraph at lines 189--189
+Overfull \hbox (0.74225pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 ment Jour-nal \T1/ppl/m/n/10.95 5.2, pp. 171180. \T1/ppl/m/
 sc/10.95 issn\T1/ppl/m/n/10.95 : 1545-0864. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/1
 0.95 : [][]$\T1/pcr/m/n/10.95 10 . 1002 / smj . 4250050207$[][]\T1/ppl/m/n/10.9
@@ -2566,19 +2574,19 @@ sc/10.95 issn\T1/ppl/m/n/10.95 : 1545-0864. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/1
  []
 
 
-Overfull \hbox (0.52026pt too wide) in paragraph at lines 189--189
+Overfull \hbox (0.52026pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Wysocki, Bernard Jr. (2004).   Col-lege try; Columbia's 
 pur-suit of patent riches angers
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
 [130]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
  (main.aux (Chapters/Introduction.aux) (Chapters/Chapter2.aux)
 (Chapters/Chapter3.aux) (Chapters/Chapter4.aux) (Chapters/Chapter5.aux)
-(Chapters/Chapter6.aux) (Chapters/Chapter7.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+(Chapters/Chapter6.aux) (Chapters/Chapter7.aux) (Chapters/Chapter8.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -2586,10 +2594,10 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: FBC7A663BD8D8427A612DB3DA4090183;12762
-(rerunfilecheck)             After:  8FBAA9688B7699B13BA75DF5191BF0B3;12869.
+(rerunfilecheck)             Before: 3FFBAE7F81AC027521BACAC699DBBC69;13395
+(rerunfilecheck)             After:  23E4BB629C67D25DA2D08FE566669D2A;13502.
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please rerun LaTeX.
@@ -2600,28 +2608,94 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34225 strings out of 495214
- 693121 string characters out of 3181354
- 995587 words of memory out of 3000000
- 36761 multiletter control sequences out of 15000+200000
+ 35007 strings out of 495214
+ 702474 string characters out of 3181354
+ 1001988 words of memory out of 3000000
+ 37503 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 61i,21n,82p,10379b,2837s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
-palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
-8a.pfb>
-Output written on main.pdf (138 pages, 815409 bytes).
+ 60i,21n,82p,10379b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter*.104} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.102} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.101} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.98} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.97} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.95} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.93} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.92} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.88} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.77} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.76} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.73} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.72} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.71} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.70} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.68} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.64} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.63} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.61} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.59} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.58} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.56} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pa
+latino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a
+.pfb>
+Output written on main.pdf (135 pages, 816166 bytes).
 PDF statistics:
- 2060 PDF objects out of 2073 (max. 8388607)
- 382 named destinations out of 1000 (max. 500000)
- 681 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2122 PDF objects out of 2487 (max. 8388607)
+ 414 named destinations out of 1000 (max. 500000)
+ 713 words of extra memory for PDF output out of 10000 (max. 10000000)
 
