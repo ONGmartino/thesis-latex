@@ -5147,7 +5147,7 @@
     \field{year}{1996}
   \endentry
 
-  \entry{Radosevich1955}{article}{}
+  \entry{Radosevich1995}{article}{}
     \name{author}{1}{}{%
       {{hash=RR}{%
          family={Radosevich},
@@ -5160,7 +5160,7 @@
     \strng{fullhash}{RR1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{1955}
+    \field{labelyear}{1995}
     \field{sortinit}{R}
     \field{sortinithash}{R}
     \verb{doi}
@@ -5174,7 +5174,7 @@
   source}}
     \field{volume}{10}
     \field{journaltitle}{International Journal of Technology Management}
-    \field{year}{1955}
+    \field{year}{1995}
   \endentry
 
   \entry{Ranga2013}{book}{}
