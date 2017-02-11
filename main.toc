@@ -20,7 +20,7 @@
 \contentsline {subsection}{\numberline {3.1.1}Absorptive capacity}{32}{subsection.18}
 \contentsline {subsection}{\numberline {3.1.2}Social capital}{34}{subsection.19}
 \contentsline {subsection}{\numberline {3.1.3}Networks and location}{35}{subsection.20}
-\contentsline {section}{\numberline {3.2}Spinoffs}{36}{section.21}
+\contentsline {section}{\numberline {3.2}spin-offs}{36}{section.21}
 \contentsline {subsection}{\numberline {3.2.1}Types}{38}{subsection.22}
 \contentsline {subsection}{\numberline {3.2.2}Factors}{39}{subsection.23}
 \contentsline {section}{\numberline {3.3}Other external agents}{40}{section.24}
@@ -31,8 +31,8 @@
 \contentsline {chapter}{\numberline {4}Channels\hfil \hbox {}}{45}{chapter.29}
 \contentsline {section}{\numberline {4.1}Channels and categories}{45}{section.30}
 \contentsline {section}{\numberline {4.2}Patents and licenses}{47}{section.31}
-\contentsline {section}{\numberline {4.3}Spinoffs}{51}{section.32}
-\contentsline {subsection}{\numberline {4.3.1}Entrepreneurs and teams}{53}{subsection.33}
+\contentsline {section}{\numberline {4.3}Spin-offs}{51}{section.32}
+\contentsline {subsection}{\numberline {4.3.1}Entrepreneurs and teams}{52}{subsection.33}
 \contentsline {section}{\numberline {4.4}Contract and cooperative research}{53}{section.34}
 \contentsline {section}{\numberline {4.5}Informal channels}{55}{section.35}
 \contentsline {section}{\numberline {4.6}Relative importance of channels}{57}{section.36}

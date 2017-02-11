@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  11 FEB 2017 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  11 FEB 2017 18:54
 entering extended mode
 **./main.tex
 (main.tex
@@ -2140,9 +2140,9 @@ Overfull \hbox (2.52438pt too wide) in paragraph at lines 105--106
  []
 
 [14]
-Overfull \hbox (10.09093pt too wide) in paragraph at lines 121--122
-[]\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults shown that, once con-trolled for 
-the rel-a-tive abil-ity of re-searchers,
+Overfull \hbox (7.22203pt too wide) in paragraph at lines 121--122
+[]\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults shown that once con-trolled for t
+he rel-a-tive abil-ity of re-searchers,
  []
 
 [15] [16] [17] [18] [19] [20]
@@ -2166,19 +2166,7 @@ File: omsppl.fd
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 263.
 
-[26]
-Overfull \hbox (3.15976pt too wide) in paragraph at lines 271--272
-[]\T1/ppl/m/n/10.95 This sce-nario high-light the im-por-tance for TTOs of hav-
-ing highly skilled and trained
- []
-
-
-Overfull \hbox (3.47722pt too wide) in paragraph at lines 271--272
-\T1/ppl/m/n/10.95 pro-fes-sion-als. Ev-ery ac-tiv-ity re-quires spe-cific knowl
--edge and of-ten in-ter-dis-ci-plinary
- []
-
-[27]
+[26] [27]
 Overfull \hbox (5.82098pt too wide) in paragraph at lines 291--292
 \T1/ppl/m/n/10.95 found that re-searchers in lower rated de-part-ments tend to 
 pre-fer con-sult-ing, whereas
@@ -2203,24 +2191,25 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ] [31] [32] [33] [34] [35] [36]
-Overfull \hbox (12.26976pt too wide) in paragraph at lines 85--86
-[]\T1/ppl/m/n/10.95 However, even if spinoffs seem a par-tic-u-larly ef-fec-tiv
-e chan-nel for university-industry
+Overfull \hbox (24.2708pt too wide) in paragraph at lines 86--87
+[]\T1/ppl/m/n/10.95 However, even if these new ven-tures seem a par-tic-u-larly
+ ef-fec-tive chan-nel for university-
  []
 
 [37]
-
-LaTeX Warning: Citation 'Radosevich1995' on page 38 undefined on input line 109
-.
+Overfull \hbox (2.73265pt too wide) in paragraph at lines 110--111
+\T1/ppl/m/n/10.95 to the spin-off en-trepreneurial lead-er-ship. The first kind
+, the aca-demic en-trepreneur,
+ []
 
 [38]
-Overfull \hbox (2.50322pt too wide) in paragraph at lines 119--120
+Overfull \hbox (2.50322pt too wide) in paragraph at lines 120--121
 \T1/ppl/m/n/10.95 Academic and in-dus-trial en-trepreneurs may be driven by two
  generic kind of forces:
  []
 
 [39] [40] [41]
-Overfull \hbox (0.19244pt too wide) in paragraph at lines 155--156
+Overfull \hbox (0.19244pt too wide) in paragraph at lines 156--157
 \T1/ppl/m/n/10.95 bridg-ing or-ga-ni-za-tions with dif-fer-ent back-grounds, in
  the case of multi-disciplinary
  []
@@ -2243,19 +2232,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-]
-Overfull \hbox (10.47504pt too wide) in paragraph at lines 25--26
-[]\T1/ppl/m/n/10.95 Other au-thors grouped the en-sem-ble of mech-a-nisms in di
-f-fer-ent chan-nels and groups,
- []
-
-[46] [47] [48] [49] [50] [51] [52] [53]
+] [46] [47] [48] [49] [50] [51] [52] [53]
 Overfull \hbox (3.69681pt too wide) in paragraph at lines 109--110
 []\T1/ppl/m/n/10.95 Collaborative re-search projects are usu-ally based on a co
 -op-er-a-tion agree-ment, which
  []
 
-[54] [55] [56]
+[54]
+Overfull \hbox (19.45331pt too wide) in paragraph at lines 127--128
+\T1/ppl/m/n/10.95 trepreneurs and pro-fes-sion-als for face to face en-coun-ter
+s that can forge other university-
+ []
+
+[55] [56]
 Overfull \hbox (1.67004pt too wide) in paragraph at lines 143--144
 []\T1/ppl/m/n/10.95 Starting points are var-i-ous con-tri-bu-tions which in-di-
 cate that patents, in-de-pen-dently
@@ -2267,7 +2256,13 @@ Overfull \hbox (3.62pt too wide) in paragraph at lines 161--162
  un-der-stand-ing when it comes
  []
 
-[58] [59] [60] [61]) [62] [63]
+[58]
+Overfull \hbox (44.80232pt too wide) in paragraph at lines 163--164
+\T1/ppl/m/n/10.95 three main agents in-volved: sci-en-tists, tech-nol-ogy trans
+-fer of-fi-cers, and firms/entrepreneurs.
+ []
+
+[59] [60] [61]) [62] [63]
 \openout2 = `Chapters/Chapter5.aux'.
 
  (Chapters/Chapter5.tex
@@ -2592,26 +2587,31 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
 (Chapters/Chapter6.aux) (Chapters/Chapter7.aux) (Chapters/Chapter8.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0C60D73EC05E84150FF4D8CAE6531CE6;13776.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: A4E043A6E9DC50853D387BE3A9250889;13786
+(rerunfilecheck)             After:  67072600AED0F1348438186191455F66;13786.
 
 LaTeX Warning: There were undefined references.
 
 
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34997 strings out of 495214
- 702383 string characters out of 3181354
- 1001993 words of memory out of 3000000
- 37507 multiletter control sequences out of 15000+200000
+ 34998 strings out of 495214
+ 702395 string characters out of 3181354
+ 1002033 words of memory out of 3000000
+ 37508 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,21n,82p,10379b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2627,9 +2627,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (139 pages, 830486 bytes).
+Output written on main.pdf (139 pages, 831000 bytes).
 PDF statistics:
- 2142 PDF objects out of 2487 (max. 8388607)
+ 2143 PDF objects out of 2487 (max. 8388607)
  400 named destinations out of 1000 (max. 500000)
  745 words of extra memory for PDF output out of 10000 (max. 10000000)
 
