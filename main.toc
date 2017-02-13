@@ -48,11 +48,11 @@
 \contentsline {subsection}{\numberline {5.3.1}University-level policies}{69}{subsection.46}
 \contentsline {subsubsection}{General policies}{70}{section*.47}
 \contentsline {subsubsection}{Patenting}{73}{section*.48}
-\contentsline {subsubsection}{Spinoffs}{74}{section*.49}
+\contentsline {subsubsection}{Spin-offs}{74}{section*.49}
 \contentsline {subsubsection}{TTOs}{74}{section*.50}
 \contentsline {section}{\numberline {5.4}Institutional-level policies}{75}{section.51}
 \contentsline {subsection}{\numberline {5.4.1}Geography does matter}{76}{subsection.52}
-\contentsline {subsection}{\numberline {5.4.2}Short-term policiy objectives}{77}{subsection.53}
+\contentsline {subsection}{\numberline {5.4.2}Short-term policy objectives}{78}{subsection.53}
 \contentsline {subsection}{\numberline {5.4.3}RIS, NIS and triple helix}{79}{subsection.54}
 \contentsline {chapter}{\numberline {6}Different approaches\hfil \hbox {}}{81}{chapter.55}
 \contentsline {section}{\numberline {6.1}Motivation}{81}{section.56}
