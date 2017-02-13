@@ -93,4 +93,7 @@
 \contentsline {subsection}{\numberline {8.1.1}Pros}{120}{subsection.105}
 \contentsline {subsection}{\numberline {8.1.2}Cons}{122}{subsection.107}
 \contentsline {section}{\numberline {8.2}Conclusions}{124}{section.108}
-\contentsline {chapter}{Bibliography}{125}{chapter*.109}
+\contentsline {subsection}{\numberline {8.2.1}Organizational mission}{124}{subsection.109}
+\contentsline {subsection}{\numberline {8.2.2}Organizational culture}{125}{subsection.110}
+\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{126}{subsection.111}
+\contentsline {chapter}{Bibliography}{128}{chapter*.112}
