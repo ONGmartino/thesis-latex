@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  13 FEB 2017 22:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  14 FEB 2017 14:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -2063,15 +2063,15 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 155.
- (main.toc)
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
-
+ (main.toc
 1: section
 [2
 
-]
+] [3])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [4]
 1: section
 \openout2 = `Chapters/Introduction.aux'.
 
@@ -2453,19 +2453,13 @@ Overfull \hbox (5.61417pt too wide) in paragraph at lines 32--33
 ce Mu-seum, CaR-
  []
 
-[121]
-Overfull \hbox (7.46323pt too wide) in paragraph at lines 52--53
-[]\T1/ppl/m/n/10.95 The fi-nan-cial risks em-bed-ded in the ex-ter-nal de-pen-d
-ency could be eval-u-ated through
- []
-
-[122] [123] [124]
-Overfull \hbox (13.40944pt too wide) in paragraph at lines 94--95
+[121] [122] [123] [124] [125]
+Overfull \hbox (13.40944pt too wide) in paragraph at lines 92--93
 \T1/ppl/m/n/10.95 from au-thor XXX, while use-full in-sights may be bor-rowed f
 rom stud-ies on knowledge-
  []
 
-[125] [126] [127]) [128]
+[126] [127]) [128]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 191.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -2588,34 +2582,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
 (Chapters/Chapter6.aux) (Chapters/Chapter7.aux) (Chapters/Chapter8.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 57CEA800DC9439207239D7217987B1EC;13484
-(rerunfilecheck)             After:  70432906C6F212468DCBFF113EC8D119;14318.
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 70432906C6F212468DCBFF113EC8D119;14318.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34848 strings out of 495214
- 700562 string characters out of 3181354
- 998900 words of memory out of 3000000
- 37352 multiletter control sequences out of 15000+200000
+ 35009 strings out of 495214
+ 702513 string characters out of 3181354
+ 1002169 words of memory out of 3000000
+ 37511 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,21n,82p,10379b,2829s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,21n,82p,10379b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -2628,9 +2608,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (141 pages, 823314 bytes).
+Output written on main.pdf (143 pages, 847746 bytes).
 PDF statistics:
- 2058 PDF objects out of 2073 (max. 8388607)
- 406 named destinations out of 1000 (max. 500000)
- 721 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2181 PDF objects out of 2487 (max. 8388607)
+ 408 named destinations out of 1000 (max. 500000)
+ 769 words of extra memory for PDF output out of 10000 (max. 10000000)
 
