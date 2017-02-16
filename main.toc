@@ -95,5 +95,5 @@
 \contentsline {section}{\numberline {8.2}Conclusions}{124}{section.109}
 \contentsline {subsection}{\numberline {8.2.1}Organizational mission}{125}{subsection.110}
 \contentsline {subsection}{\numberline {8.2.2}Organizational culture}{126}{subsection.112}
-\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{128}{subsection.113}
-\contentsline {chapter}{Bibliography}{130}{chapter*.114}
+\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{127}{subsection.113}
+\contentsline {chapter}{Bibliography}{129}{chapter*.114}
