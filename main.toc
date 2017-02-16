@@ -72,14 +72,14 @@
 \contentsline {subsection}{\numberline {7.2.1}External perspective}{101}{subsection.74}
 \contentsline {subsubsection}{For firms}{101}{section*.75}
 \contentsline {subsubsection}{For research organizations}{102}{section*.76}
-\contentsline {subsubsection}{For spinoff}{103}{section*.77}
+\contentsline {subsubsection}{For spin-off}{103}{section*.77}
 \contentsline {subsection}{\numberline {7.2.2}Internal perspective}{104}{subsection.78}
 \contentsline {subsubsection}{Patenting process}{104}{section*.79}
 \contentsline {subsubsection}{Relationships management}{105}{section*.80}
-\contentsline {subsubsection}{Spinoff process}{107}{section*.90}
+\contentsline {subsubsection}{Spin-off process}{107}{section*.90}
 \contentsline {subsubsection}{Grant support}{108}{section*.91}
 \contentsline {subsubsection}{Contractual support}{109}{section*.92}
-\contentsline {subsubsection}{"additional information"}{110}{section*.93}
+\contentsline {subsubsection}{Additional insights}{110}{section*.93}
 \contentsline {section}{\numberline {7.3}Evaluation}{111}{section.94}
 \contentsline {subsection}{\numberline {7.3.1}Effectiveness}{111}{subsection.95}
 \contentsline {subsection}{\numberline {7.3.2}Efficiency}{114}{subsection.96}
@@ -92,8 +92,9 @@
 \contentsline {section}{\numberline {8.1}Case study discussion}{120}{section.104}
 \contentsline {subsection}{\numberline {8.1.1}Pros}{120}{subsection.105}
 \contentsline {subsection}{\numberline {8.1.2}Cons}{122}{subsection.107}
-\contentsline {section}{\numberline {8.2}Conclusions}{124}{section.109}
+\contentsline {section}{\numberline {8.2}Conclusions}{125}{section.109}
 \contentsline {subsection}{\numberline {8.2.1}Organizational mission}{125}{subsection.110}
 \contentsline {subsection}{\numberline {8.2.2}Organizational culture}{126}{subsection.112}
-\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{127}{subsection.113}
-\contentsline {chapter}{Bibliography}{129}{chapter*.114}
+\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{128}{subsection.113}
+\contentsline {section}{\numberline {8.3}Concluding remarks}{128}{section.114}
+\contentsline {chapter}{Bibliography}{129}{chapter*.115}
