@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=latex 2017.1.11)  16 FEB 2017 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  16 FEB 2017 21:34
 entering extended mode
-**./main.tex
+**mian
 (main.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 2 language(s) loaded.
@@ -120,30 +120,32 @@ L3 Module: l3candidates 2016/08/19 v6688 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen132
 L3 Module: l3luatex 2016/08/18 v6679 L3 Experimental LuaTeX-specific functions
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3dvips.def"
-File: l3dvips.def 2016/08/18 v6679 L3 Experimental driver: dvips
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2016/08/18 v6679 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count101
+\l__driver_tmp_box=\box41
 ))
 Package: xparse 2016/11/21 v6760 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count101
-\l__xparse_m_args_int=\count102
-\l__xparse_mandatory_args_int=\count103
-\l__xparse_processor_int=\count104
-\l__xparse_v_nesting_int=\count105
+\l__xparse_current_arg_int=\count102
+\l__xparse_m_args_int=\count103
+\l__xparse_mandatory_args_int=\count104
+\l__xparse_processor_int=\count105
+\l__xparse_v_nesting_int=\count106
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
 File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count106
-\c@chapter=\count107
-\c@section=\count108
-\c@subsection=\count109
-\c@subsubsection=\count110
-\c@paragraph=\count111
-\c@subparagraph=\count112
-\c@figure=\count113
-\c@table=\count114
+\c@part=\count107
+\c@chapter=\count108
+\c@section=\count109
+\c@subsection=\count110
+\c@subsubsection=\count111
+\c@paragraph=\count112
+\c@subparagraph=\count113
+\c@figure=\count114
+\c@table=\count115
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen133
@@ -222,7 +224,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count115
+\babel@savecnt=\count116
 \U@D=\dimen134
 )
 \l@british = a dialect from \language\l@english 
@@ -450,16 +452,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip50
 \LTpre=\skip51
 \LTpost=\skip52
-\LTchunksize=\count116
+\LTchunksize=\count117
 \LTcapwidth=\dimen135
-\LT@head=\box41
-\LT@firsthead=\box42
-\LT@foot=\box43
-\LT@lastfoot=\box44
-\LT@cols=\count117
-\LT@rows=\count118
-\c@LT@tables=\count119
-\c@LT@chunks=\count120
+\LT@head=\box42
+\LT@firsthead=\box43
+\LT@foot=\box44
+\LT@lastfoot=\box45
+\LT@cols=\count118
+\LT@rows=\count119
+\c@LT@tables=\count120
+\c@LT@chunks=\count121
 \LT@p@ftn=\toks15
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
@@ -484,29 +486,29 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2016/11/21 v6760 LaTeX2e option processing using LaTeX3 keys
 )
-\l__siunitx_tmp_box=\box45
+\l__siunitx_tmp_box=\box46
 \l__siunitx_tmp_dim=\dimen139
-\l__siunitx_tmp_int=\count121
-\l__siunitx_number_mantissa_length_int=\count122
-\l__siunitx_number_uncert_length_int=\count123
-\l__siunitx_round_int=\count124
-\l__siunitx_process_decimal_int=\count125
-\l__siunitx_process_uncertainty_int=\count126
-\l__siunitx_process_fixed_int=\count127
-\l__siunitx_process_integer_min_int=\count128
-\l__siunitx_process_precision_int=\count129
-\l__siunitx_group_min_int=\count130
-\l__siunitx_angle_marker_box=\box46
-\l__siunitx_angle_unit_box=\box47
+\l__siunitx_tmp_int=\count122
+\l__siunitx_number_mantissa_length_int=\count123
+\l__siunitx_number_uncert_length_int=\count124
+\l__siunitx_round_int=\count125
+\l__siunitx_process_decimal_int=\count126
+\l__siunitx_process_uncertainty_int=\count127
+\l__siunitx_process_fixed_int=\count128
+\l__siunitx_process_integer_min_int=\count129
+\l__siunitx_process_precision_int=\count130
+\l__siunitx_group_min_int=\count131
+\l__siunitx_angle_marker_box=\box47
+\l__siunitx_angle_unit_box=\box48
 \l__siunitx_angle_marker_dim=\dimen140
 \l__siunitx_angle_unit_dim=\dimen141
-\l__siunitx_unit_int=\count131
-\l__siunitx_unit_denominator_int=\count132
-\l__siunitx_unit_numerator_int=\count133
-\l__siunitx_unit_prefix_int=\count134
-\l__siunitx_unit_prefix_base_int=\count135
-\l__siunitx_unit_prefix_gram_int=\count136
-\l__siunitx_number_product_int=\count137
+\l__siunitx_unit_int=\count132
+\l__siunitx_unit_denominator_int=\count133
+\l__siunitx_unit_numerator_int=\count134
+\l__siunitx_unit_prefix_int=\count135
+\l__siunitx_unit_prefix_base_int=\count136
+\l__siunitx_unit_prefix_gram_int=\count137
+\l__siunitx_number_product_int=\count138
 \c__siunitx_one_fill_skip=\skip55
 \l__siunitx_table_unit_align_skip=\skip56
 \l__siunitx_table_exponent_dim=\dimen142
@@ -518,10 +520,10 @@ Package: l3keys2e 2016/11/21 v6760 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_fill_pre_dim=\dimen148
 \l__siunitx_table_fill_post_dim=\dimen149
 \l__siunitx_table_fill_mid_dim=\dimen150
-\l__siunitx_table_pre_box=\box48
-\l__siunitx_table_post_box=\box49
-\l__siunitx_table_mantissa_box=\box50
-\l__siunitx_table_result_box=\box51
+\l__siunitx_table_pre_box=\box49
+\l__siunitx_table_post_box=\box50
+\l__siunitx_table_mantissa_box=\box51
+\l__siunitx_table_result_box=\box52
 \l__siunitx_table_number_align_skip=\skip57
 \l__siunitx_table_text_align_skip=\skip58
 .................................................
@@ -659,10 +661,18 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\dvips.def"
-File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count139
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
@@ -679,12 +689,12 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \cmidrulesep=\dimen160
 \cmidrulekern=\dimen161
 \defaultaddspace=\dimen162
-\@cmidla=\count138
-\@cmidlb=\count139
+\@cmidla=\count140
+\@cmidlb=\count141
 \@aboverulesep=\dimen163
 \@belowrulesep=\dimen164
-\@thisruleclass=\count140
-\@lastruleclass=\count141
+\@thisruleclass=\count142
+\@lastruleclass=\count143
 \@thisrulewidth=\dimen165
 )
 (C:\Users\marti\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
@@ -701,7 +711,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen171
 \caption@hangindent=\dimen172
 )
-\c@ContinuedFloat=\count142
+\c@ContinuedFloat=\count144
 Package caption Info: longtable package is loaded.
 
 (C:\Users\marti\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
@@ -789,8 +799,9 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -812,9 +823,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count143
-\Gm@cntv=\count144
-\c@Gm@tempcnt=\count145
+\Gm@cnth=\count145
+\Gm@cntv=\count146
+\c@Gm@tempcnt=\count147
 \Gm@bindingoffset=\dimen173
 \Gm@wd@mp=\dimen174
 \Gm@odd@mp=\dimen175
@@ -1251,30 +1262,30 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count146
+\inf@bad=\count148
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count147
-\leftroot@=\count148
+\uproot@=\count149
+\leftroot@=\count150
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count149
-\DOTSCASE@=\count150
+\classnum@=\count151
+\DOTSCASE@=\count152
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
+\Mathstrutbox@=\box53
+\strutbox@=\box54
 \big@size=\dimen182
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count151
-\c@MaxMatrixCols=\count152
+\macc@depth=\count153
+\c@MaxMatrixCols=\count154
 \dotsspace@=\muskip16
-\c@parentequation=\count153
-\dspbrk@lvl=\count154
+\c@parentequation=\count155
+\dspbrk@lvl=\count156
 \tag@help=\toks21
-\row@=\count155
-\column@=\count156
-\maxfields@=\count157
+\row@=\count157
+\column@=\count158
+\maxfields@=\count159
 \andhelp@=\toks22
 \eqnshift@=\dimen183
 \alignsep@=\dimen184
@@ -1299,20 +1310,14 @@ Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -1329,7 +1334,7 @@ Package etexcmds Info: Could not find \expanded.
 )))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count158
+\lrq@indent=\count160
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -1344,49 +1349,49 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write3
-\integerpart=\count159
-\decimalpart=\count160
+\integerpart=\count161
+\decimalpart=\count162
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count161
-\c@listtotal=\count162
-\c@listcount=\count163
-\c@liststart=\count164
-\c@liststop=\count165
-\c@citecount=\count166
-\c@citetotal=\count167
-\c@multicitecount=\count168
-\c@multicitetotal=\count169
-\c@instcount=\count170
-\c@maxnames=\count171
-\c@minnames=\count172
-\c@maxitems=\count173
-\c@minitems=\count174
-\c@citecounter=\count175
-\c@savedcitecounter=\count176
-\c@uniquelist=\count177
-\c@uniquename=\count178
-\c@refsection=\count179
-\c@refsegment=\count180
-\c@maxextratitle=\count181
-\c@maxextratitleyear=\count182
-\c@maxextrayear=\count183
-\c@maxextraalpha=\count184
-\c@abbrvpenalty=\count185
-\c@highnamepenalty=\count186
-\c@lownamepenalty=\count187
-\c@maxparens=\count188
-\c@parenlevel=\count189
-\blx@tempcnta=\count190
-\blx@tempcntb=\count191
-\blx@tempcntc=\count192
-\blx@maxsection=\count193
-\blx@maxsegment@0=\count194
-\blx@notetype=\count195
-\blx@parenlevel@text=\count196
-\blx@parenlevel@foot=\count197
-\blx@sectionciteorder@0=\count198
+\c@tabx@nest=\count163
+\c@listtotal=\count164
+\c@listcount=\count165
+\c@liststart=\count166
+\c@liststop=\count167
+\c@citecount=\count168
+\c@citetotal=\count169
+\c@multicitecount=\count170
+\c@multicitetotal=\count171
+\c@instcount=\count172
+\c@maxnames=\count173
+\c@minnames=\count174
+\c@maxitems=\count175
+\c@minitems=\count176
+\c@citecounter=\count177
+\c@savedcitecounter=\count178
+\c@uniquelist=\count179
+\c@uniquename=\count180
+\c@refsection=\count181
+\c@refsegment=\count182
+\c@maxextratitle=\count183
+\c@maxextratitleyear=\count184
+\c@maxextrayear=\count185
+\c@maxextraalpha=\count186
+\c@abbrvpenalty=\count187
+\c@highnamepenalty=\count188
+\c@lownamepenalty=\count189
+\c@maxparens=\count190
+\c@parenlevel=\count191
+\blx@tempcnta=\count192
+\blx@tempcntb=\count193
+\blx@tempcntc=\count194
+\blx@maxsection=\count195
+\blx@maxsegment@0=\count196
+\blx@notetype=\count197
+\blx@parenlevel@text=\count198
+\blx@parenlevel@foot=\count199
+\blx@sectionciteorder@0=\count266
 \labelnumberwidth=\skip63
 \labelalphawidth=\skip64
 \biblabelsep=\skip65
@@ -1397,9 +1402,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip70
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count199
-\c@maxcomprange=\count266
-\c@mincompwidth=\count267
+\c@mincomprange=\count267
+\c@maxcomprange=\count268
+\c@mincompwidth=\count269
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1408,72 +1413,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count268
-\c@savedafterword=\count269
-\c@annotator=\count270
-\c@savedannotator=\count271
-\c@author=\count272
-\c@savedauthor=\count273
-\c@bookauthor=\count274
-\c@savedbookauthor=\count275
-\c@commentator=\count276
-\c@savedcommentator=\count277
-\c@editor=\count278
-\c@savededitor=\count279
-\c@editora=\count280
-\c@savededitora=\count281
-\c@editorb=\count282
-\c@savededitorb=\count283
-\c@editorc=\count284
-\c@savededitorc=\count285
-\c@foreword=\count286
-\c@savedforeword=\count287
-\c@holder=\count288
-\c@savedholder=\count289
-\c@introduction=\count290
-\c@savedintroduction=\count291
-\c@namea=\count292
-\c@savednamea=\count293
-\c@nameb=\count294
-\c@savednameb=\count295
-\c@namec=\count296
-\c@savednamec=\count297
-\c@translator=\count298
-\c@savedtranslator=\count299
-\c@shortauthor=\count300
-\c@savedshortauthor=\count301
-\c@shorteditor=\count302
-\c@savedshorteditor=\count303
-\c@labelname=\count304
-\c@savedlabelname=\count305
-\c@institution=\count306
-\c@savedinstitution=\count307
-\c@lista=\count308
-\c@savedlista=\count309
-\c@listb=\count310
-\c@savedlistb=\count311
-\c@listc=\count312
-\c@savedlistc=\count313
-\c@listd=\count314
-\c@savedlistd=\count315
-\c@liste=\count316
-\c@savedliste=\count317
-\c@listf=\count318
-\c@savedlistf=\count319
-\c@location=\count320
-\c@savedlocation=\count321
-\c@organization=\count322
-\c@savedorganization=\count323
-\c@origlocation=\count324
-\c@savedoriglocation=\count325
-\c@origpublisher=\count326
-\c@savedorigpublisher=\count327
-\c@publisher=\count328
-\c@savedpublisher=\count329
-\c@language=\count330
-\c@savedlanguage=\count331
-\c@pageref=\count332
-\c@savedpageref=\count333
+\c@afterword=\count270
+\c@savedafterword=\count271
+\c@annotator=\count272
+\c@savedannotator=\count273
+\c@author=\count274
+\c@savedauthor=\count275
+\c@bookauthor=\count276
+\c@savedbookauthor=\count277
+\c@commentator=\count278
+\c@savedcommentator=\count279
+\c@editor=\count280
+\c@savededitor=\count281
+\c@editora=\count282
+\c@savededitora=\count283
+\c@editorb=\count284
+\c@savededitorb=\count285
+\c@editorc=\count286
+\c@savededitorc=\count287
+\c@foreword=\count288
+\c@savedforeword=\count289
+\c@holder=\count290
+\c@savedholder=\count291
+\c@introduction=\count292
+\c@savedintroduction=\count293
+\c@namea=\count294
+\c@savednamea=\count295
+\c@nameb=\count296
+\c@savednameb=\count297
+\c@namec=\count298
+\c@savednamec=\count299
+\c@translator=\count300
+\c@savedtranslator=\count301
+\c@shortauthor=\count302
+\c@savedshortauthor=\count303
+\c@shorteditor=\count304
+\c@savedshorteditor=\count305
+\c@labelname=\count306
+\c@savedlabelname=\count307
+\c@institution=\count308
+\c@savedinstitution=\count309
+\c@lista=\count310
+\c@savedlista=\count311
+\c@listb=\count312
+\c@savedlistb=\count313
+\c@listc=\count314
+\c@savedlistc=\count315
+\c@listd=\count316
+\c@savedlistd=\count317
+\c@liste=\count318
+\c@savedliste=\count319
+\c@listf=\count320
+\c@savedlistf=\count321
+\c@location=\count322
+\c@savedlocation=\count323
+\c@organization=\count324
+\c@savedorganization=\count325
+\c@origlocation=\count326
+\c@savedoriglocation=\count327
+\c@origpublisher=\count328
+\c@savedorigpublisher=\count329
+\c@publisher=\count330
+\c@savedpublisher=\count331
+\c@language=\count332
+\c@savedlanguage=\count333
+\c@pageref=\count334
+\c@savedpageref=\count335
 \shorthandwidth=\skip71
 \shortjournalwidth=\skip72
 \shortserieswidth=\skip73
@@ -1501,13 +1506,13 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count334
-\c@textcitetotal=\count335
-\c@textcitemaxnames=\count336
-\c@biburlnumpenalty=\count337
-\c@biburlucpenalty=\count338
-\c@biburllcpenalty=\count339
-\c@smartand=\count340
+\c@textcitecount=\count336
+\c@textcitetotal=\count337
+\c@textcitemaxnames=\count338
+\c@biburlnumpenalty=\count339
+\c@biburlucpenalty=\count340
+\c@biburllcpenalty=\count341
+\c@smartand=\count342
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -1525,8 +1530,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count341
-\c@bbx:relatedtotal=\count342
+\c@bbx:relatedcount=\count343
+\c@bbx:relatedtotal=\count344
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1549,12 +1554,12 @@ File: biblatex.cfg
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty"
 Package: csquotes 2016/12/28 v5.2 context-sensitive quotations (JAW)
-\csq@reset=\count343
-\csq@gtype=\count344
-\csq@glevel=\count345
-\csq@qlevel=\count346
-\csq@maxlvl=\count347
-\csq@tshold=\count348
+\csq@reset=\count345
+\csq@gtype=\count346
+\csq@glevel=\count347
+\csq@qlevel=\count348
+\csq@maxlvl=\count349
+\csq@tshold=\count350
 \csq@ltx@everypar=\toks25
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\csquotes\csquotes.def"
@@ -1678,15 +1683,15 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen189
-\Hy@linkcounter=\count349
-\Hy@pagecounter=\count350
+\Hy@linkcounter=\count351
+\Hy@pagecounter=\count352
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count351
+\Hy@SavedSpaceFactor=\count353
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1698,10 +1703,10 @@ Package hyperref Info: Plain pages OFF on input line 4501.
 Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
-\c@Hy@tempcnt=\count352
+\c@Hy@tempcnt=\count354
 LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen190
-\Fld@menulength=\count353
+\Fld@menulength=\count355
 \Field@Width=\dimen191
 \Fld@charsize=\dimen192
 Package hyperref Info: Hyper figures OFF on input line 6342.
@@ -1713,29 +1718,21 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6367.
 Package hyperref Info: PDF/A mode OFF on input line 6372.
 LaTeX Info: Redefining \ref on input line 6412.
 LaTeX Info: Redefining \pageref on input line 6416.
-\Hy@abspage=\count354
-\c@Item=\count355
-\c@Hfootnote=\count356
+\Hy@abspage=\count356
+\c@Item=\count357
+\c@Hfootnote=\count358
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
 (scrhack)             need that hack, on input line 92.
 
 
-Package hyperref Message: Driver (default): hdvips.
+Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hdvips.def"
-File: hdvips.def 2016/06/24 v6.83q Hyperref driver for dvips
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pdfmark.def"
-File: pdfmark.def 2016/06/24 v6.83q Hyperref definitions for pdfmark specials
-\pdf@docset=\toks26
-\pdf@box=\box54
-\pdf@toks=\toks27
-\pdf@defaulttoks=\toks28
-\HyField@AnnotCount=\count357
-\Fld@listcount=\count358
-\c@bookmark@seq@number=\count359
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count359
+\c@bookmark@seq@number=\count360
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -1743,7 +1740,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip77
-))
+)
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 92.
 Package hyperref Info: Option `hypertexnames' set `false' on input line 92.
 Package hyperref Info: Option `colorlinks' set `true' on input line 92.
@@ -1872,14 +1869,40 @@ Dictionary: translator-basic-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/01/01 v2.7a siunitx: Abbreviated units
 )
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count361
+\scratchdimen=\dimen193
+\scratchbox=\box55
+\nofMPsegments=\count362
+\nofMParguments=\count363
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count364
+\MPscratchDim=\dimen194
+\MPnumerator=\count365
+\makeMPintoPDFobject=\count366
+\everyMPtoPDFconversion=\toks27
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -1997,7 +2020,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\keywordnames' on input line 92.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 92.
-\AtBeginShipoutBox=\box55
+\AtBeginShipoutBox=\box56
 Package hyperref Info: Link coloring ON on input line 92.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2005,7 +2028,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count360
+\c@section@level=\count367
 )
 LaTeX Info: Redefining \ref on input line 92.
 LaTeX Info: Redefining \pageref on input line 92.
@@ -2015,8 +2038,8 @@ LaTeX Info: Redefining \nameref on input line 92.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-\c__siunitx_mathsf_int=\count361
-\c__siunitx_mathtt_int=\count362
+\c__siunitx_mathsf_int=\count368
+\c__siunitx_mathtt_int=\count369
 
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
@@ -2025,7 +2048,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 
 
-]
+{C:/Users/marti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 --------------------
  Abstract
 --------------------
@@ -2448,50 +2471,11 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 191.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (165.5791pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 ogy trans-fer. In: \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/pp
-l/m/n/10.95 27.5, pp. 306318. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664
-972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 10
-16 / j . technovation . 2006 . 10 . 003$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (115.45007pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 als field. In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T1/ppl/
-m/n/10.95 38.5, pp. 756764. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 0048733
-3. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016
- / j . respol . 2009 . 01 . 006$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
 1: section
 [129
 
 
 ]
-Overfull \hbox (144.81825pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 1965 and 2002. In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T1/
-ppl/m/n/10.95 35.4, pp. 518532. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 004
-87333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 
-1016 / j . respol . 2006 . 01 . 004$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (39.56381pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 ni-za-tion \T1/ppl/m/n/10.95 21.9, pp. 13011322. \T1/ppl/m/
-sc/10.95 issn\T1/ppl/m/n/10.95 : 01677187. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10
-.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S0167 -[] 7187(03 ) 00084 -[] 5$[][]
-[][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (128.72263pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 mat-ter? In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T1/ppl/m/
-n/10.95 37.10, pp. 18371853. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 004873
-33. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 101
-6 / j . respol . 2008 . 07 . 007$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
 Overfull \hbox (9.5338pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 ments and mar-ket struc-ture. In: \T1/ppl/m/it/10.95 Re-sear
 ch Pol-icy \T1/ppl/m/n/10.95 31.7, pp. 11411161. \T1/ppl/m/sc/10.95 issn\T1/pp
@@ -2504,76 +2488,12 @@ Overfull \hbox (2.70383pt too wide) in paragraph at lines 191--191
  Eng-land Jour-nal of Medicine \T1/ppl/m/n/10.95 335.23, pp. 1734
  []
 
-
-Overfull \hbox (2.8447pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Trans-fer \T1/ppl/m/n/10.95 41.1, pp. 132151. \T1/ppl/m/sc/
-10.95 issn\T1/ppl/m/n/10.95 : 15737047. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95
- : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 014 -[] 9384 -[] 5$[][][][]\
-T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (41.57492pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 search Pol-icy \T1/ppl/m/n/10.95 34.3, pp. 369384. \T1/ppl/
-m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/
-10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . respol . 2005 . 01 . 007$[][][
-][]\T1/ppl/m/n/10.95 . 
- []
-
 [130]
 Overfull \hbox (5.59096pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 Amer-i-can Jour-nal of So-ci-ol-ogy \T1/ppl/m/n/10.95 94.198
 8, S95. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 0002-9602. \T1/ppl/m/sc/10.9
-5 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1086 / 228943$[][][][]\T
-1/ppl/m/n/10.95 .
- []
-
-
-Overfull \hbox (2.8447pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Trans-fer \T1/ppl/m/n/10.95 35.1, pp. 113140. \T1/ppl/m/sc/
-10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95
- : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 009 -[] 9111 -[] 9$[][][][]\
-T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (41.57492pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 search Pol-icy \T1/ppl/m/n/10.95 39.6, pp. 699709. \T1/ppl/
-m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/
-10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . respol . 2010 . 01 . 013$[][][
-][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (12.11986pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Pol-icy \T1/ppl/m/n/10.95 34.3, pp. 321342. \T1/ppl/m/sc/10
-.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 :
- [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . respol . 2004 . 12 . 003$[][][][]\T1/
-ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (54.39673pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Tech-nol-ogy Trans-fer \T1/ppl/m/n/10.95 36.3, pp. 316339. 
-\T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/
-ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 010 -[] 9153 -[
-] z$[][][][]\T1/ppl/m/n/10.95 .
- []
-
-
-Overfull \hbox (54.39673pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Tech-nol-ogy Trans-fer \T1/ppl/m/n/10.95 33.3, pp. 225247. 
-\T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/
-ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 006 -[] 9000 -[
-] 4$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (118.30054pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 la-tions. In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T1/ppl/m
-/n/10.95 29.2, pp. 109123. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00487333
-. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 
-/ S0048 -[] 7333(99 ) 00055 -[] 4$[][][][]\T1/ppl/m/n/10.95 . 
+5 doi\T1/ppl/m/n/10.95 : [][]$\T1/pcr/m/n/10.95 10 . 1086 / 228943$[][]\T1/ppl/
+m/n/10.95 .
  []
 
 [131]
@@ -2583,64 +2503,16 @@ o-kers on the bound-ary: Academy
  []
 
 
-Overfull \hbox (17.44098pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Trans-fer \T1/ppl/m/n/10.95 41.5, pp. 12351246. \T1/ppl/m/s
-c/10.95 issn\T1/ppl/m/n/10.95 : 0892-9912. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10
-.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 015 -[] 9419 -[] 6$[][][]
-[]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (1.05692pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 May, pp. 1525. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00
-430633. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 .
- 1111 / j . 1467 -[] 8691 . 2006 . 00398 . x$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (0.60017pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Ed-u-ca-tion \T1/ppl/m/n/10.95 64.1, pp. 8598. \T1/ppl/m/sc
-/10.95 issn\T1/ppl/m/n/10.95 : 00181560. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.9
-5 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10734 -[] 011 -[] 9482 -[] 3$[][][][]
-\T1/ppl/m/n/10.95 . 
- []
-
-
 Overfull \hbox (4.27197pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Fritsch, Michael and Vik-tor Slavtchev (2007).   Uni-ver
 -si-ties and in-no-va-tion in space.
  []
 
 
-Overfull \hbox (83.6475pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 In: \T1/ppl/m/it/10.95 In-dus-try & In-no-va-tion \T1/ppl/m/n
-/10.95 14.2, pp. 201218. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 1366-2716.
- \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1080 /
- 13662710701253466$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (88.03577pt too wide) in paragraph at lines 191--191
+Overfull \hbox (13.02837pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/ppl/m/n/10.95 31.12, pp. 638647. \T1/pp
 l/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/
-n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . technovation . 2011 . 06 . 0
-09$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (123.91019pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Jour-nal of Busi-ness Ven-tur-ing \T1/ppl/m/n/10.95 12.6, pp
-. 423434. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 08839026. \T1/ppl/m/sc/10
-.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S0883 -[] 9026(
-96 ) 00064 -[] X$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (129.53247pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Strate-gies, and Or-ga-ni-za-tional Dy-nam-ics\T1/ppl/m/n/10
-.95 , pp. 3757. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m
-/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / 978 -[] 1
- -[] 4614 -[] 4388 -[] 9 _ 2$[][][][]\T1/ppl/m/n/10.95 .
+n/10.95 : [][]$\T1/pcr/m/n/10.95 10 . 1016 / j . technovation .
  []
 
 [132]
@@ -2651,25 +2523,9 @@ issn\T1/ppl/m/n/10.95 : 01677187.
  []
 
 
-Overfull \hbox (62.54623pt too wide) in paragraph at lines 191--191
-[][][]$\T1/pcr/m/n/10.95 http : / / www . nature . com / nbt / journal / v20 / 
-n6s / full / nbt0602supp -[] BE26 . html$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (8.84123pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Uni-ver-sity Li-cens-ing\T1/ppl/m/n/10.95 . Vol. 91. 1, pp. 
-240259. \T1/ppl/m/sc/10.95 isbn\T1/ppl/m/n/10.95 : 0002-8282. \T1/ppl/m/sc/10.
-95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 3386 / w6698$[][][][]\T
-1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (108.97481pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 In-dus-trial Or-ga-ni-za-tion \T1/ppl/m/n/10.95 21.9, pp. 12
-711300. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01677187. \T1/ppl/m/sc/10.9
-5 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S0167 -[] 7187(03
- ) 00083 -[] 3$[][][][]\T1/ppl/m/n/10.95 . 
+Overfull \hbox (0.67882pt too wide) in paragraph at lines 191--191
+[][]$\T1/pcr/m/n/10.95 http : / / www . nature . com / nbt / journal / v20 / n6
+s / full / nbt0602supp -[]
  []
 
 
@@ -2685,173 +2541,38 @@ Overfull \hbox (17.52228pt too wide) in paragraph at lines 191--191
 ar-ing Aca-demic En-trepreneur-
  []
 
-
-Overfull \hbox (171.61272pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 ness mod-els. In: \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/ppl
-/m/n/10.95 33.12, pp. 431449. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664
-972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 10
-16 / j . technovation . 2013 . 09 . 008$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (81.78229pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 search Eval-u-a-tion \T1/ppl/m/n/10.95 17.Septem-ber, pp. 22
-7232. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 09582029. \T1/ppl/m/sc/10.95 
-doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 3152 / 095820208X331685$[]
-[][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (150.03735pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 ties. In: \T1/ppl/m/it/10.95 R and D Man-age-ment \T1/ppl/m/
-n/10.95 35.3, pp. 257272. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00336807.
- \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1111 /
- j . 1467 -[] 9310 . 2005 . 00388 . x$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
 [133]
 Overfull \hbox (4.14882pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 Be-hav-iors among Life Sci-en-tists. In: \T1/ppl/m/it/10.95 
 Ad-min-is-tra-tive Sci-ence Quar-terly \T1/ppl/m/n/10.95 34.1, pp. 110
  []
 
-
-Overfull \hbox (58.0332pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 tion \T1/ppl/m/n/10.95 25.12, pp. 14181429. \T1/ppl/m/sc/10
-.95 issn\T1/ppl/m/n/10.95 : 01664972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 :
- [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . technovation . 2004 . 08 . 002$[][][]
-[]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (99.31287pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Jour-nal of Tech-nol-ogy Trans-fer \T1/ppl/m/n/10.95 38.4, p
-p. 486508. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/1
-0.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1007 / s10961 -[] 012
- -[] 9262 -[] y$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
 [134]
-Overfull \hbox (100.47433pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 ation. In: \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/ppl/m/n/10
-.95 22.5, pp. 281289. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664972. \T1
-/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S01
-66 -[] 4972(01 ) 00019 -[] 0$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
 Overfull \hbox (6.81386pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/n/10.95 and eco-nomic growth. In: \T1/ppl/m/it/10.95 The dy-namic fi
 rm, Ox-ford Uni-ver-sity Press, Ox-ford\T1/ppl/m/n/10.95 , pp. 45
  []
 
-
-Overfull \hbox (8.85515pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 pp. 11411157. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 016
-64972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 
-1016 / j . technovation . 2004 . 05 . 001$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
+[135]
 Overfull \hbox (0.62193pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 ogy Trans-fer \T1/ppl/m/n/10.95 26.1, pp. 99114. \T1/ppl/m/
 sc/10.95 issn\T1/ppl/m/n/10.95 : 08929912. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10
-.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1023 / A : 1007892413701$[][][][]\T1/ppl/m/
-n/10.95 . 
+.95 : [][]$\T1/pcr/m/n/10.95 10 . 1023 / A : 1007892413701$[][]\T1/ppl/m/n/10.9
+5 . 
  []
 
-
-Overfull \hbox (56.1858pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Tech-no-va-tion \T1/ppl/m/n/10.95 23.10, pp. 823831. \T1/pp
-l/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 01664972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/
-n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S0166 -[] 4972(02 ) 00034 -[] 2$
-[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-[135]
-Overfull \hbox (181.33589pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 sity knowl-edge. In: \T1/ppl/m/it/10.95 Tech-no-va-tion \T1/
-ppl/m/n/10.95 26.4, pp. 518533. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 016
-64972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 
-1016 / j . technovation . 2004 . 11 . 005$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (117.2396pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 and Be-yond\T1/ppl/m/n/10.95 , pp. 4699. \T1/ppl/m/sc/10.95
- isbn\T1/ppl/m/n/10.95 : 9780195067040. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95
- : [][][]$\T1/pcr/m/n/10.95 10 . 1093 / acprof : oso / 9780195067040 . 001 . 00
-01$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (49.82004pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 ment Sci-ence \T1/ppl/m/n/10.95 47.9, pp. 11731190. \T1/ppl
-/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 0025-1909. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/
-n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1287 / mnsc . 47 . 9 . 1173 . 9785$[][]
-[][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (101.31725pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 study. In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T1/ppl/m/n/
-10.95 32.1, pp. 2748. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1
-/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / S00
-48 -[] 7333(01 ) 00196 -[] 2$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-
+[136]
 Overfull \hbox (16.52689pt too wide) in paragraph at lines 191--191
 [][]\T1/ppl/m/n/10.95 Siegel, Don-ald S et al. (2003b).   Sci-ence Parks and t
 he Per-for-mance of New Technology-
  []
 
-
-Overfull \hbox (59.89505pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 ver-sity in-tel-lec-tual prop-erty: Per-for-mance and pol-ic
-y im-pli-ca-tions\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : 
-[][][]$\T1/pcr/m/n/10.95 10 . 1093 / oxrep / grm036$[][][][]\T1/ppl/m/n/10.95 .
- 
- []
-
-[136]
-Overfull \hbox (58.1618pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 01664972. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T
-1/pcr/m/n/10.95 10 . 1016 / j . technovation . 2010 . 10 . 003$[][][][]\T1/ppl/
-m/n/10.95 . arXiv: [][][]$\T1/pcr/m/n/10.95 arXiv : 1011 . 1669v3$[][][][]\T1/p
-pl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (28.54483pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 Pol-icy \T1/ppl/m/n/10.95 35.10, pp. 15691585. \T1/ppl/m/sc
-/10.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.9
-5 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . respol . 2006 . 09 . 025$[][][][]\
-T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (41.57492pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/it/10.95 search Pol-icy \T1/ppl/m/n/10.95 33.3, pp. 425441. \T1/ppl/
-m/sc/10.95 issn\T1/ppl/m/n/10.95 : 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/
-10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1016 / j . respol . 2003 . 09 . 004$[][][
-][]\T1/ppl/m/n/10.95 . 
- []
-
-
-Overfull \hbox (87.77887pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 Group Mind. In: \T1/ppl/m/it/10.95 The-o-ries of Group Be-ha
-v-ior\T1/ppl/m/n/10.95 , pp. 185208. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 :
- [][][]$\T1/pcr/m/n/10.95 10 . 1007 / 978 -[] 1 -[] 4612 -[] 4634 -[] 3 _ 9$[][
-][][]\T1/ppl/m/n/10.95 . 
- []
-
-
+[137]
 Overfull \hbox (0.74225pt too wide) in paragraph at lines 191--191
 \T1/ppl/m/it/10.95 ment Jour-nal \T1/ppl/m/n/10.95 5.2, pp. 171180. \T1/ppl/m/
 sc/10.95 issn\T1/ppl/m/n/10.95 : 1545-0864. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/1
-0.95 : [][][]$\T1/pcr/m/n/10.95 10 . 1002 / smj . 4250050207$[][][][]\T1/ppl/m/
-n/10.95 .
+0.95 : [][]$\T1/pcr/m/n/10.95 10 . 1002 / smj . 4250050207$[][]\T1/ppl/m/n/10.9
+5 .
  []
 
 
@@ -2860,43 +2581,48 @@ Overfull \hbox (0.52026pt too wide) in paragraph at lines 191--191
 pur-suit of patent riches angers
  []
 
-
-Overfull \hbox (161.16599pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 and busi-nesses. In: \T1/ppl/m/it/10.95 Re-search Pol-icy \T
-1/ppl/m/n/10.95 37.8, pp. 11671174. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 :
- 00487333. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 1
-0 . 1016 / j . respol . 2008 . 04 . 011$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
-[137]
-Overfull \hbox (80.39467pt too wide) in paragraph at lines 191--191
-\T1/ppl/m/n/10.95 In: \T1/ppl/m/it/10.95 Jour-nal of Tech-nol-ogy Trans-fer \T1
-/ppl/m/n/10.95 26, pp. 3758. \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 : 089299
-12. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][][]$\T1/pcr/m/n/10.95 10 . 102
-3 / a : 1007832127813$[][][][]\T1/ppl/m/n/10.95 . 
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
 [138]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
  (main.aux (Chapters/Introduction.aux) (Chapters/Chapter2.aux)
 (Chapters/Chapter3.aux) (Chapters/Chapter4.aux) (Chapters/Chapter5.aux)
 (Chapters/Chapter6.aux) (Chapters/Chapter7.aux) (Chapters/Chapter8.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 195.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1F61C0F3326D3D4752FF3FC3A756FBDA;14459.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34089 strings out of 495215
- 690122 string characters out of 3181380
- 1000897 words of memory out of 3000000
- 37032 multiletter control sequences out of 15000+200000
- 35232 words of font info for 66 fonts, out of 3000000 for 9000
+ 35014 strings out of 495214
+ 702564 string characters out of 3181354
+ 1002145 words of memory out of 3000000
+ 37513 multiletter control sequences out of 15000+200000
+ 49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,21n,82p,10379b,2830s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,21n,82p,10373b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
+8a.pfb>
+Output written on main.pdf (143 pages, 852167 bytes).
+PDF statistics:
+ 2199 PDF objects out of 2487 (max. 8388607)
+ 410 named destinations out of 1000 (max. 500000)
+ 777 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on main.dvi (143 pages, 995404 bytes).
