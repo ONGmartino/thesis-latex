@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  16 FEB 2017 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  17 FEB 2017 16:49
 entering extended mode
-**mian
+**./main.tex
 (main.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 2 language(s) loaded.
@@ -2100,7 +2100,13 @@ Overfull \hbox (4.56079pt too wide) in paragraph at lines 26--27
 -ter-nal-i-ties, ex-tremely high trans-
  []
 
-[2] [3] [4]) [5]
+[2]
+Overfull \hbox (1.46233pt too wide) in paragraph at lines 42--43
+[]\T1/ppl/m/n/10.95 In a qual-i-ta-tive per-spec-tive, in-stead, a sig-nif-i-ca
+nt con-tri-bu-tion comes from []Bercovitz
+ []
+
+[3] [4]) [5]
 \openout2 = `Chapters/Chapter2.aux'.
 
  (Chapters/Chapter2.tex
@@ -2112,6 +2118,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
+
+
+Overfull \hbox (3.76187pt too wide) in paragraph at lines 7--8
+\T1/ppl/m/n/10.95 mer-cial ac-tiv-i-ties, while the or-ga-ni-za-tional struc-tu
+re pro-vides in-stru-ments and paths
+ []
 
 1: section
 [6
@@ -2130,44 +2142,43 @@ Overfull \hbox (2.01004pt too wide) in paragraph at lines 45--46
 ies can be eval-u-ated through
  []
 
-[9] [10] [11]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 85.
- [12] [13]
-Overfull \hbox (2.52438pt too wide) in paragraph at lines 105--106
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 49.
+[9] [10] [11] [12] [13]
+Overfull \hbox (2.52438pt too wide) in paragraph at lines 107--108
 \T1/ppl/m/n/10.95 strength of ties be-tween uni-ver-si-ties and in-dus-tries de
 -vel-oped in past projects (Pow-
  []
 
 [14]
-Overfull \hbox (7.22203pt too wide) in paragraph at lines 121--122
+Overfull \hbox (7.22203pt too wide) in paragraph at lines 123--124
 []\T1/ppl/m/n/10.95 His em-pir-i-cal re-sults shown that once con-trolled for t
 he rel-a-tive abil-ity of re-searchers,
  []
 
 [15] [16] [17] [18] [19] [20]
-Overfull \hbox (1.10106pt too wide) in paragraph at lines 195--196
+Overfull \hbox (1.10106pt too wide) in paragraph at lines 197--198
 []\T1/ppl/m/n/10.95 Within this per-spec-tive, in-ter-me-di-aries can en-hance 
 the over-all sys-tem per-for-mance
  []
 
 [21]
-Overfull \hbox (6.88237pt too wide) in paragraph at lines 211--212
+Overfull \hbox (6.88237pt too wide) in paragraph at lines 213--214
 \T1/ppl/m/n/10.95 bu-reau-cratic or-ga-ni-za-tional cul-ture makes them in-flex
 -i-ble in struc-tur-ing deals ([]Siegel
  []
 
 [22] [23] [24] [25]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 263.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 265.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 263.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
 
 [26] [27]
-Overfull \hbox (5.82098pt too wide) in paragraph at lines 291--292
+Overfull \hbox (5.82098pt too wide) in paragraph at lines 293--294
 \T1/ppl/m/n/10.95 found that re-searchers in lower rated de-part-ments tend to 
 pre-fer con-sult-ing, whereas
  []
@@ -2214,7 +2225,7 @@ Overfull \hbox (0.19244pt too wide) in paragraph at lines 156--157
  the case of multi-disciplinary
  []
 
-[42]) [43] [44]
+[42] [43]) [44]
 \openout2 = `Chapters/Chapter4.aux'.
 
  (Chapters/Chapter4.tex
@@ -2233,36 +2244,36 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ] [46] [47] [48] [49] [50] [51] [52] [53]
-Overfull \hbox (3.69681pt too wide) in paragraph at lines 109--110
+Overfull \hbox (3.69681pt too wide) in paragraph at lines 111--112
 []\T1/ppl/m/n/10.95 Collaborative re-search projects are usu-ally based on a co
 -op-er-a-tion agree-ment, which
  []
 
 [54]
-Overfull \hbox (19.45331pt too wide) in paragraph at lines 127--128
+Overfull \hbox (19.45331pt too wide) in paragraph at lines 129--130
 \T1/ppl/m/n/10.95 trepreneurs and pro-fes-sion-als for face to face en-coun-ter
 s that can forge other university-
  []
 
 [55] [56]
-Overfull \hbox (1.67004pt too wide) in paragraph at lines 143--144
+Overfull \hbox (1.67004pt too wide) in paragraph at lines 145--146
 []\T1/ppl/m/n/10.95 Starting points are var-i-ous con-tri-bu-tions which in-di-
 cate that patents, in-de-pen-dently
  []
 
 [57]
-Overfull \hbox (3.62pt too wide) in paragraph at lines 161--162
+Overfull \hbox (3.62pt too wide) in paragraph at lines 163--164
 \T1/ppl/m/n/10.95 firms and uni-ver-si-ties also lack an ap-pro-pri-ate mu-tual
  un-der-stand-ing when it comes
  []
 
 [58]
-Overfull \hbox (44.80232pt too wide) in paragraph at lines 163--164
+Overfull \hbox (44.80232pt too wide) in paragraph at lines 165--166
 \T1/ppl/m/n/10.95 three main agents in-volved: sci-en-tists, tech-nol-ogy trans
 -fer of-fi-cers, and firms/entrepreneurs.
  []
 
-[59] [60] [61]) [62] [63]
+[59] [60] [61] [62]) [63]
 \openout2 = `Chapters/Chapter5.aux'.
 
  (Chapters/Chapter5.tex
@@ -2316,7 +2327,7 @@ Overfull \hbox (1.21062pt too wide) in paragraph at lines 174--175
 ns that in-sti-tu-tions can make
  []
 
-[77] [78]) [79] [80]
+[77] [78] [79]) [80]
 \openout2 = `Chapters/Chapter6.aux'.
 
  (Chapters/Chapter6.tex
@@ -2590,24 +2601,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1F61C0F3326D3D4752FF3FC3A756FBDA;14459.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: 5159FE0000A039AA699DA316131B073A;15276.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35014 strings out of 495214
- 702564 string characters out of 3181354
- 1002145 words of memory out of 3000000
- 37513 multiletter control sequences out of 15000+200000
+ 35026 strings out of 495214
+ 702740 string characters out of 3181354
+ 1002096 words of memory out of 3000000
+ 37519 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,21n,82p,10373b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,21n,82p,10379b,2828s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -2620,9 +2626,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (143 pages, 852167 bytes).
+Output written on main.pdf (143 pages, 857232 bytes).
 PDF statistics:
- 2199 PDF objects out of 2487 (max. 8388607)
- 410 named destinations out of 1000 (max. 500000)
- 777 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2234 PDF objects out of 2487 (max. 8388607)
+ 417 named destinations out of 1000 (max. 500000)
+ 833 words of extra memory for PDF output out of 10000 (max. 10000000)
 
