@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  17 FEB 2017 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  17 FEB 2017 22:16
 entering extended mode
 **./main.tex
 (main.tex
@@ -2225,7 +2225,13 @@ Overfull \hbox (0.19244pt too wide) in paragraph at lines 156--157
  the case of multi-disciplinary
  []
 
-[42] [43]) [44]
+[42] [43])
+Overfull \hbox (0.26921pt too wide) in paragraph at lines 185--172
+[]\T1/ppl/m/n/10.95 Again, while pub-lic uni-ver-si-ties and pri-vate re-search
+ or-ga-ni-za-tions may share these
+ []
+
+[44]
 \openout2 = `Chapters/Chapter4.aux'.
 
  (Chapters/Chapter4.tex
@@ -2273,7 +2279,13 @@ Overfull \hbox (44.80232pt too wide) in paragraph at lines 165--166
 -fer of-fi-cers, and firms/entrepreneurs.
  []
 
-[59] [60] [61] [62]) [63]
+[59] [60] [61] [62]
+Overfull \hbox (0.57553pt too wide) in paragraph at lines 217--218
+[]\T1/ppl/m/n/10.95 The next sec-tion pro-vided in-for-ma-tions on the rel-a-ti
+ve im-por-tante and per-for-mance
+ []
+
+) [63]
 \openout2 = `Chapters/Chapter5.aux'.
 
  (Chapters/Chapter5.tex
@@ -2626,9 +2638,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (143 pages, 857232 bytes).
+Output written on main.pdf (143 pages, 862307 bytes).
 PDF statistics:
- 2234 PDF objects out of 2487 (max. 8388607)
+ 2241 PDF objects out of 2487 (max. 8388607)
  417 named destinations out of 1000 (max. 500000)
  833 words of extra memory for PDF output out of 10000 (max. 10000000)
 
