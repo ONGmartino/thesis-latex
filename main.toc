@@ -104,4 +104,4 @@
 \contentsline {subsection}{\numberline {8.2.2}Organizational culture}{127}{subsection.120}
 \contentsline {subsection}{\numberline {8.2.3}Organizational structure}{129}{subsection.121}
 \contentsline {section}{\numberline {8.3}Concluding remarks}{129}{section.122}
-\contentsline {chapter}{Bibliography}{132}{chapter*.123}
+\contentsline {chapter}{Reference}{132}{chapter*.123}
