@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  20 FEB 2017 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  20 FEB 2017 22:26
 entering extended mode
 **./main.tex
 (main.tex
@@ -2261,7 +2261,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 
-] [47] [48] [49] [50] [51] [52] [53] [54]
+]
+Overfull \hbox (3.07263pt too wide) in paragraph at lines 25--26
+\T1/ppl/m/n/10.95 con-sul-tancy and con-tract re-search, new com-pa-nies and ne
+w phys-i-cal fa-cil-i-ties, train-
+ []
+
+[47]
+Overfull \hbox (0.26906pt too wide) in paragraph at lines 29--30
+\T1/ppl/m/n/10.95 The two main al-ter-na-tives, in their view, are too dif-fuse
+ the new tech-nol-ogy through
+ []
+
+[48] [49] [50] [51] [52] [53] [54]
 Overfull \hbox (3.69681pt too wide) in paragraph at lines 111--112
 []\T1/ppl/m/n/10.95 Collaborative re-search projects are usu-ally based on a co
 -op-er-a-tion agree-ment, which
@@ -2279,31 +2291,13 @@ Overfull \hbox (1.67004pt too wide) in paragraph at lines 145--146
 cate that patents, in-de-pen-dently
  []
 
-[58]
-Overfull \hbox (3.62pt too wide) in paragraph at lines 163--164
-\T1/ppl/m/n/10.95 firms and uni-ver-si-ties also lack an ap-pro-pri-ate mu-tual
- un-der-stand-ing when it comes
- []
-
-[59]
+[58] [59]
 Overfull \hbox (44.80232pt too wide) in paragraph at lines 165--166
 \T1/ppl/m/n/10.95 three main agents in-volved: sci-en-tists, tech-nol-ogy trans
 -fer of-fi-cers, and firms/entrepreneurs.
  []
 
-[60] [61] [62] [63]
-Overfull \hbox (0.57553pt too wide) in paragraph at lines 215--216
-\T1/ppl/m/n/10.95 The next sec-tion pro-vided in-for-ma-tions on the rel-a-tive
- im-por-tante and per-for-mance
- []
-
-
-Overfull \hbox (2.57892pt too wide) in paragraph at lines 217--218
-\T1/ppl/m/n/10.95 per-for-mance; the com-pat-i-bil-ity and com-ple-men-tar-ity 
-be-tween the tech-nolo-gies sup-
- []
-
-) [64]
+[60] [61] [62] [63]) [64]
 \openout2 = `Chapters/Chapter5.aux'.
 
  (Chapters/Chapter5.tex
@@ -2334,29 +2328,23 @@ Overfull \hbox (4.80219pt too wide) in paragraph at lines 69--70
  []
 
 [70] [71]
-Overfull \hbox (4.55075pt too wide) in paragraph at lines 97--98
+Overfull \hbox (4.55075pt too wide) in paragraph at lines 98--99
 []\T1/ppl/m/n/10.95 Policy state-ments should ac-knowl-edge the im-por-tance of
  the tech-nol-ogy trans-
  []
 
 [72] [73] [74]
-Overfull \hbox (2.91891pt too wide) in paragraph at lines 132--133
+Overfull \hbox (2.91891pt too wide) in paragraph at lines 133--134
 \T1/ppl/m/n/10.95 de-ci-sion mak-ing, fi-nan-cial con-tri-bu-tion, sur-ro-gate 
 en-trepreneurs and alike ([]Franklin
  []
 
-
-Overfull \hbox (0.65198pt too wide) in paragraph at lines 132--133
-\T1/ppl/m/n/10.95 ac-cess to uni-ver-sity in-fras-truc-tures and lab-o-ra-to-ri
-es, and the li-cens-ing of university-
- []
-
 [75] [76] [77]
 
-LaTeX Warning: Citation 'Niosi2002' on page 78 undefined on input line 170.
+LaTeX Warning: Citation 'Niosi2002' on page 78 undefined on input line 171.
 
 
-Overfull \hbox (1.21062pt too wide) in paragraph at lines 174--175
+Overfull \hbox (1.21062pt too wide) in paragraph at lines 175--176
 \T1/ppl/m/n/10.95 There are many nar-row and se-lec-tive pol-icy in-ter-ven-tio
 ns that in-sti-tu-tions can make
  []
@@ -2669,7 +2657,7 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (146 pages, 873039 bytes).
+Output written on main.pdf (146 pages, 873164 bytes).
 PDF statistics:
  2268 PDF objects out of 2487 (max. 8388607)
  421 named destinations out of 1000 (max. 500000)
