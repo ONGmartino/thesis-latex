@@ -87,7 +87,7 @@
 \contentsline {subsubsection}{Contractual support}{110}{section*.98}
 \contentsline {subsubsection}{Additional insights}{111}{section*.99}
 \contentsline {section}{\numberline {7.3}Evaluation}{112}{section.100}
-\contentsline {subsection}{\numberline {7.3.1}Effectiveness}{113}{subsection.101}
+\contentsline {subsection}{\numberline {7.3.1}Effectiveness}{112}{subsection.101}
 \contentsline {subsection}{\numberline {7.3.2}Efficiency}{115}{subsection.102}
 \contentsline {subsubsection}{Performance comparison over time}{115}{section*.103}
 \contentsline {subsubsection}{Performance comparison between competitors}{116}{section*.104}
@@ -99,9 +99,9 @@
 \contentsline {section}{\numberline {8.1}Case study discussion}{121}{section.111}
 \contentsline {subsection}{\numberline {8.1.1}Pros}{121}{subsection.112}
 \contentsline {subsection}{\numberline {8.1.2}Cons}{123}{subsection.115}
-\contentsline {section}{\numberline {8.2}Conclusions}{126}{section.117}
+\contentsline {section}{\numberline {8.2}Conclusions}{125}{section.117}
 \contentsline {subsection}{\numberline {8.2.1}Organizational mission}{126}{subsection.118}
 \contentsline {subsection}{\numberline {8.2.2}Organizational culture}{127}{subsection.120}
-\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{129}{subsection.121}
+\contentsline {subsection}{\numberline {8.2.3}Organizational structure}{128}{subsection.121}
 \contentsline {section}{\numberline {8.3}Concluding remarks}{129}{section.122}
 \contentsline {chapter}{Reference}{132}{chapter*.123}

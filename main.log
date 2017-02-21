@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  21 FEB 2017 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  21 FEB 2017 19:24
 entering extended mode
 **./main.tex
 (main.tex
@@ -2433,24 +2433,30 @@ Overfull \hbox (5.16373pt too wide) in paragraph at lines 11--12
 hers de-liv-er-ing a patentable
  []
 
-[105] [106]
+[105]
 Overfull \hbox (11.4156pt too wide) in paragraph at lines 33--34
 \T1/ppl/m/n/10.95 AIRT. Along with mar-ket-ing ac-tiv-i-ties, he ac-tively elic
 -its in-for-ma-tion from re-searchers
  []
 
-[107] [108] [109] [110] [111]) [112] [113] [114] [115] [116] [117]
+[106] [107] [108] [109] [110] [111]) [112] [113] [114]
+Overfull \hbox (0.64182pt too wide) in paragraph at lines 212--213
+[]\T1/ppl/m/n/10.95 The tem-po-ral anal-y-sis should be based on an eco-nomic m
+odel so-phis-ti-cated enough
+ []
+
+[115] [116] [117]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 240.
 
-[118]
+
 Overfull \hbox (2.50389pt too wide) in paragraph at lines 254--255
 \T1/ppl/m/n/10.95 funded through re-search grants or di-rect re-search con-trac
 ts from pri-vate firms.
  []
 
-
+[118]
 Overfull \hbox (1.30894pt too wide) in paragraph at lines 262--268
 \T1/ppl/m/n/10.95 scribes the will-ing-ness to pro-tect and val-orize the in-te
 l-lec-tual prop-erty, mainly
@@ -2468,12 +2474,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hbox' on input line 3.
-
-
-Overfull \hbox (7.07988pt too wide) in paragraph at lines 7--8
-\T1/ppl/m/n/10.95 Univerity-Industry and the Business-to-Business ap-proaches t
-o the tech-nol-ogy trans-
- []
 
 1: section
 [121
@@ -2634,7 +2634,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  35030 strings out of 495214
  702777 string characters out of 3181354
- 1002151 words of memory out of 3000000
+ 1002177 words of memory out of 3000000
  37519 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2651,9 +2651,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (146 pages, 873185 bytes).
+Output written on main.pdf (146 pages, 873659 bytes).
 PDF statistics:
- 2268 PDF objects out of 2487 (max. 8388607)
+ 2269 PDF objects out of 2487 (max. 8388607)
  421 named destinations out of 1000 (max. 500000)
  833 words of extra memory for PDF output out of 10000 (max. 10000000)
 
