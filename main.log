@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  22 FEB 2017 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.11)  22 FEB 2017 18:33
 entering extended mode
 **./main.tex
 (main.tex
@@ -2044,6 +2044,10 @@ LaTeX Info: Redefining \nameref on input line 92.
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 110.
+
+Package hyperref Warning: Suppressing link with empty target on input line 116.
+
+
 [1
 
 
@@ -2610,7 +2614,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  35030 strings out of 495214
  702777 string characters out of 3181354
- 1002177 words of memory out of 3000000
+ 1002094 words of memory out of 3000000
  37519 multiletter control sequences out of 15000+200000
  49291 words of font info for 88 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2627,9 +2631,9 @@ ts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri
 8a.pfb>
-Output written on main.pdf (146 pages, 873682 bytes).
+Output written on main.pdf (146 pages, 873484 bytes).
 PDF statistics:
- 2269 PDF objects out of 2487 (max. 8388607)
+ 2268 PDF objects out of 2487 (max. 8388607)
  421 named destinations out of 1000 (max. 500000)
  833 words of extra memory for PDF output out of 10000 (max. 10000000)
 
